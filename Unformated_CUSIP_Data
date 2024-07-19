@@ -1,0 +1,426 @@
+Unformated CUSIP Data Needs Cleanup
+"1st FRANKLIN FINANCIAL CORPORATION , cusip, 1FFC , , 1FFC bank  
+"PARKERVISION INC , cusip, 18014164 , 00022904 , 592971472 , 44461A , ,  , N/A , N/A , N/A 
+"PARKERVISION INC , cusip, 44461A , cusipNames, CUSIP for PARKERVISION INC 
+"PARKERVISION INC , cusip, 1680929 , 44461A , ,  , CUSIP for the company 
+"ParkerVision Inc , cusip, 5871584 , ,  
+"PARKERVISION INC , cusip, 44461A , , PARKERVISION INC 
+"PARKERVISION INC , cusip, 44461A , , CUSIP for PARKERVISION INC 
+"PARKERVISION INC , cusip, 44461A , 36642D , 666883 , 83176B , 698102 , , Convertible Note 2019 , Convertible Note 2020 , Convertible Note 2023 , Amendment July 15 2019 Convertible Note ,  
+"PARKERVISION INC , cusip, 44461A , , CUSIP for ParkerVision Inc 
+"TorontoDominion Bank , cusip, 89115GCH0 , US89115GCH02 , cusipNames, Callable Contingent Interest Barrier Notes Linked SP 500® Index 
+"Equitable Financial Life Insurance Company , cusip, 800153724 , 863835 , , SCS Income 
+"UBS AG , cusip, 90307D2B7 , 1122497 , 2051754 , , US90307D2B75 , CUSIP 1122497 , CUSIP 2051754  
+"Alphabet Inc , 90307D3H3 
+"XORTX THERAPEUTICS INC , cusip, 371322 , 101111 , 270211 , cusipNames, [["Common Shares , Warrants , Warrants"] 
+"XORTX THERAPEUTICS INC , cusip, 555555 , , Common Shares Issuable Upon Exercise Warrants  
+"Zapata Computing Holdings Inc , cusip, 98987L104 , cusip_name,  
+"Zapata Computing Holdings Inc , cusip, 15850336 , 25049982 , cusipNames, Shares  , Shares  Underlying Warrants 
+"reAlpha Tech Corp , cusip, 00141839 , cusipNames, CUSIP for reAlpha Tech Corp 
+"AG Twin Brook Capital Income Fund , cusip, 37706056 , , CUSIP for AG Twin Brook Capital Income Fund 
+"Banzai International Inc , cusip, 00139826 , , Banzai International Inc 
+"Banzai International Inc , cusip, 853118980 , , CUSIP: 853118980 
+"Equitable Financial Life Insurance Company America , cusip, 800152724 , 770821 , , Equitable Financial Life Insurance Company America CUSIP 800152724 , Equitable Financial Life Insurance Company America CUSIP 770821  
+"Biodexa Pharmaceuticals PLC , cusip, 00137652 , cusip_name, Biodexa Pharmaceuticals PLC 
+"Biodexa Pharmaceuticals PLC , cusip, 8203200 , , Ordinary Shares Representing 20508 American Depositary Shares 
+"Biodexa Pharmaceuticals PLC , cusip, 115102400 , cusip_name, Ordinary Shares 
+"Biodexa Pharmaceuticals PLC , cusip, 697614 , 1911176 , 7233107 , 104351 , , Class Units consisting , Class B Units consisting , Warrants purchase , Representative Warrants purchase , Class Units , Class B Units , Warrants purchase 
+"Biodexa Pharmaceuticals PLC , cusip, 119202320 , cusip_desc, Ordinary Shares Representing American Depositary Shares 
+"Biodexa Pharmaceuticals PLC , cusip, 2486270400 , , Ordinary Shares Representing 6215676 American Depositary Shares 
+"BRAND ENGAGEMENT NETWORK INC , cusip, 46752838 , 21190316 , 1583334 , 163407 , ,  , Shares  Underlying Warrants , Shares  Underlying Convertible Notes , Shares  Underlying Options 
+"Calamos Global Dynamic Income Fund , cusip, 1396277 , , Calamos Global Dynamic Income Fund CUSIP 
+"Captivision Inc , cusip, 24204341 , 38200001 , 11950000 , 23449990 , 754351 , , Ordinary Shares , Ordinary Shares , Warrants , Ordinary Shares , Ordinary Shares 
+"Cohen Steers Income Opportunities REIT Inc , cusip, [,"cusip_names, [ 
+"Envoy Medical Inc , cusip, 22223D104 , cusipNames,  ,"Anzu Special Acquisition Corp I , cusip, 103436104 , cusipNames,   
+"Danimer Scientific Inc , cusip, 236208104 , cusipNames,  
+Great Elm Capital Corp , cusips, 3169363
+"High Income Securities Fund , cusip, 17530463 , , Shares Beneficial Interest  
+"Nano Labs Ltd , cusip, 6521737 , , Class Ordinary Shares 
+"Owens Corning , cusip, 373155000 , cusipNames, 350 Senior Notes due 2030 
+"Smith Micro Software Inc , cusip, 831795101 , ,  
+"Sable Offshore Corp , cusip, 00140111 , 853514078 , ,  , Warrants 
+"1st Franklin Financial Corporation , cusip, 1FFC , cusipNames, 1FFC Variable Rate Subordinated Debentures 
+"1st Franklin Financial Corporation , cusip, 123456789 , , 1FFC Senior Demand Notes 
+"Envoy Medical Inc , cusip, 18041060 , 3913043 , 13418923 , 3874394 , 2173913 , 2500000 , 869565 , 2000000 , 125000 , 490000 , 8512 , 10795411 , 21954103 , , Class  , Warrants , Series Preferred Stock , Shortfall Warrants , Series Convertible Preferred Stock , Anzu’s Class B  , Class  , Series Preferred Stock , Class  , Class B  , Shortfall Warrants , Legacy Envoy  , aggregate shares Class  
+ "name, "Alzamend Neuro Inc , cusip, 001643108 , cusipNumbers, 125000000 ,{"name, "Orchid Finance LLC , cusip, [,"cusipNumbers, [  
+"Bank Montreal , cusip, 06376AZL7 , , Senior Medium-Term Notes Series Market Linked Notes due October 04 2028 
+{"data, "Fidelity MultiStrategy Credit Fund , cusip, 31945E108 , 31945C898 , 31945C881 , 31945C873 , , Fidelity MultiStrategy Credit Fund Class A , Fidelity MultiStrategy Credit Fund Class C , Fidelity MultiStrategy Credit Fund Class L , Fidelity MultiStrategy Credit Fund Class B  
+"GCT Semiconductor Holding Inc , cusip, 00141013 , 862171699 , cusipNames, CUSIP 00141013 , CUSIP 862171699 
+"GDEV INC , cusip, 74531665S , , Ordinary Shares , Warrants 
+ "name, "J.P. Morgan Multi Asset Index , cusip, 333270004 , 333270004-01 , cusipNames, Registration Statement No. 333270004 , Registration Statement No. 333270004-01  
+"JP Morgan Kronos SM Index , cusip, 46625H102 , cusipNames, JP Morgan Kronos SM Index 
+"Equitable Financial Life Insurance Company , cusip, 333275496 , , Registration No 333275496 
+"JP Morgan Kronos SM Index , cusip, 420195F30 , cusipNames, JP Morgan Kronos SM Index 
+"MerQube US Tech Vol Advantage Index , Invesco QQQ Trust SM Series 1 , cusip, [["MQUX1234567 , MQUX7654321"],["IVQ1234567 , IVQ7654321"],"cusip_names, [["CUSIP for MerQube US Tech Vol Advantage Index - MQUX1234567 , CUSIP for MerQube US Tech Vol Advantage Index - MQUX7654321"],["CUSIP for Invesco QQQ Trust SM Series 1 - IVQ1234567 , CUSIP for Invesco QQQ Trust SM Series 1 - IVQ7654321"] 
+,"cusip, [ 
+"JPMorgan Chase & Co , cusip, 46090A101 , , JPMorgan Chase & Co  
+ "name, "JP Morgan Efficiente® Plus DS 5 Index Net ER , cusips, JPCUS3M , JPUSCAFB , JPCUS3M , , JP Morgan Cash Index USD 3 Month , Cash Index , JP Morgan EM Corporate Bond Index  
+"JPMorgan Chase & Co , cusip, 48124N102 , , JPMorgan Chase & Co  
+"JP Morgan Efficiente® Plus DS 5 Index Net ER , cusip, JPM0000001 , JPM0000002 , cusipNames, JP Morgan Efficiente® Plus DS 5 Index Net ER , JPMorgan Chase & Co. Preferred Shares 
+"JP Morgan Total Return SM Index , cusip, 54823P100 , 508117107 , 613671045 , 913839102 , 92940M102 , 921943855 , cusipNames, JP Morgan Total Return SM Index , GOVT AGENCY BONDS , US TREASURY BONDS , HIGH YIELD CORPORATE , EMERGING MARKETS , PREFERRED STOCK 
+"J P Morgan , cusip, 6183 , 1831 , 5160 , 5128 , 5114 , 5104 , 6119 ,"Invesco DB US Dollar Index Bullish Fund , cusip, 4952 , 4992 , 4943 , 4953 ,"JP Morgan Tactical Blend Index , cusip, 4098 , 4117 , 4128 , 4132 ,"Currency Bond Equity , cusip, 5778 , 5452 , 5689  
+"JP Morgan Tactical Blend Index , Invesco DB US Dollar Index Bullish Fund , JP Morgan Low Volatility Index , JP Morgan Core Bond Index , cusip, 4953-1885 , 4961-1905 , 4962-1954 , 2146-3049 , 2192-1911 , 4039-2133 , 6183-1831 , , JP Morgan Tactical Blend Index , Invesco DB US Dollar Index Bullish Fund , JP Morgan Low Volatility Index , JP Morgan Core Bond Index , JP Morgan Tactical Blend Index , Invesco DB US Dollar Index Bullish Fund , JP Morgan Low Volatility Index 
+"FS CREDIT REAL ESTATE INCOME TRUST INC , cusip, 250935 , 248557 , 249121 , 249554 , 241899 , 253414 , 241546 , , Class A , Class B , Class C , Class D , Class E , Class F , Class Y  
+"JP Morgan Total Return SM Index , cusip, 46625H680 , 46625H773 , 46625H755 , , JP Morgan Total Return SM Index , JP Morgan Securities LLC , JP Morgan Chase Bank N.A. 
+"MerQube US Small Cap Vol Advantage Index , cusip, 123456789 , 987654321 , , CUSIP for MerQube US Small Cap Vol Advantage Index , Another CUSIP for MerQube US Small Cap Vol Advantage Index 
+"MerQube , cusip, MTR1H22 , MTR1H23 , , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index 
+"MerQube US Large Cap Vol Advantage Index , cusip, N/A , , [ 
+"MerQube US Small Cap Vol Advantage Index , cusip, [,"cusip_names, [ 
+"JPMorgan Chase & Co , cusips, 009605053 , , Domestic 30 70 Portfolio ER , Global 30 70 Portfolio ER 
+"JPMorgan Chase & Co , cusip, 46625H100 , ,  
+"JPMorgan Chase & Co , cusip, 48124E104 , , JPMorgan Chase & Co  
+"JPMorgan Chase & Co , cusip, 46625H100 , cusipNames, JPMorgan Chase & Co 
+"Kazia Therapeutics Limited , cusip, 484962106 , 333276774 , 333259224 , 333276091 , cusip_name, Kazia Therapeutics Limited , Prospectus Supplement Registration No 333276774 , Company's registration statement Form F3 File No 333259224 , Company's registration statement Form F3 File No 333276091 
+"Hines Global Income Trust Inc , cusip, 43327F100 , , Class A Shares , Class JX Shares , Class L Shares , Class M Shares 
+"Kazia Therapeutics Limited , cusip, 00029962 , 333279773 , 333259224 , 333276091 , , Form 6K Commission File Number , Registration No 333279773 , Company's registration statement Form F3 File No 333259224 , Company's registration statement Form F3 File No 333276091 
+"Kazia Therapeutics Limited , cusip, 333280447 , 333259224 , 333276091 , , Registration No 333280447 , Company's registration statement Form F3 File No 333259224 , Company's registration statement Form F3 File No 333276091  
+ "Microbot Medical Inc , cusips, M20334P106 , ,   
+"Nikola Corporation , cusip, N/A , ,  
+"Nikola Corporation , cusips, 53390000 , 23890000 , 890000 , ,  ,  Issuable Upon Exercise Warrants , Private Warrants 
+"Nuburu Inc , cusip, 62912C109 , ,  
+ "name, "Nuburu Inc , cusips, 00139489 , 851288435 , , CUSIP for  , CUSIP for Preferred Stock  
+"Santech Holdings Limited , cusip, 80307C106 , , CUSIP for American Depositary Shares of Santech Holdings Limited 
+"1st Franklin Financial Corporation , cusip, 123456789"],// Placeholder CUSIP number since actual is not provided"cusip_names, Senior Demand Notes 
+ "name, "Pineapple Financial Inc , cusip, 13910991 , 12400110 , , Common Shares , EPA Shares  
+"SMX Security Matters Public Limited Company , cusip, 8653846 , , Ordinary Shares 
+"SMX Security Matters Public Limited Company , cusip, SMX-00022 , SMX-8653846 , , Ordinary Shares par value per share , Ordinary Shares exercise price per share 
+"SMX Security Matters Public Limited Company , cusip, 657203 , 8653846 , 487281 , 00022 , AUD859500 , , Promissory Note , Warrant , Ordinary Shares , Par Value , AUD Liability 
+"SMX Security Matters Public Limited Company , Generating Alpha Ltd , cusip, 9482110 , 8653846 , , [["Ordinary Shares , Ordinary Shares"],["Warrant"] 
+ "name, "SMX Security Matters Public Limited Company , cusips, 9482110 , 4538107 , 9375000 , 1695834 , 11825508 , 100000 , 8653846 , 4070403 , 67500 , , Ordinary Shares , Issued Outstanding Ordinary Shares , Selling Stockholder Ordinary Shares , Convertible Security Ordinary Shares , Warrant Ordinary Shares , Warrant Ordinary Shares , Warrant Ordinary Shares , Ordinary Shares Increased by Conversion , 5Year Warrant Ordinary Shares  
+"SMX Security Matters Public Limited Company , cusip, 9482110 , 8653846 , , Ordinary Shares , Warrant ,"Generating Alpha Ltd , cusip, [,"cusip_names, [ ,"Canterbury Group Ltd , cusip, [,"cusip_names, [  
+"StepStone Private Infrastructure Fund , cusip, 85937D103 , , StepStone Private Infrastructure Fund CUSIP 
+"Tenon Medical Inc , cusip, 87362R105 , cusipNames,  ,"Lincoln Park Capital Fund LLC , cusip, 53621E101 , cusipNames, Preferred Stock  
+"Invesco Real Estate Income Trust Inc , cusip, 276190 , 276725 , 276417 , 277578 , 292145 , , Class , Class , Class , Class , Class E 
+"Wheeler Real Estate Investment Trust Inc , cusip, 00135713 , 452681082 , ,  , Series B Convertible Preferred Stock 
+"White River Energy Corp , cusip, 67651420 , 16931266 , , Shares  , Warrants Purchase Shares  
+"CytoDyn Inc , cusip, 141019099 , 35792347 , 00049908 , , Shares  , shares  par value 0001 , State jurisdiction incorporation organization 
+"CytoDyn Inc , cusip, 00049908 , cusip_description, CUSIP number for CytoDyn Inc 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NT22 , , CUSIP for JPMorgan Chase Financial Company LLC 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NT22 , cusip_name, Preliminary Pricing Supplement 
+"Microbot Medical Inc , cusip, 1769966 , 001 , ,  , Par Value 
+"Microbot Medical Inc , cusip, 59422E104 , ,  
+"PGIM Private Real Estate Fund Inc , cusip, [,"cusip_names, [ 
+"Microbot Medical Inc , cusip, 3211671 , ,  
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 63743RAC0 , , Medium-Term Notes Series Due Nine Months 
+"Patria Investments Limited , cusip, 1317031 , , Class Common Shares 
+"Q32 Bio Inc , cusip, QTTB , cusip_description,  
+"Vista Outdoor Inc , cusip, 92837L102 , cusipNames, Vista Outdoor  ,"Revelyst Inc , cusip, 76159R102 , cusipNames, Revelyst  ,"Czech Group (CZECHOSLOVAK GROUP) , cusip, G2131G106 , cusipNames, Czech Group American Depository Shares ,"CSG Elevate II Inc , cusip, 12502X103 , cusipNames, CSG Elevate II  ,"CSG Elevate III Inc , cusip, 12502X202 , cusipNames, CSG Elevate III   
+"SMX SECURITY MATTERS PUBLIC LIMITED COMPANY , Generating Alpha Ltd , Security Matters PTY Ltd , cusip, 826380108",// CUSIP for SMX SECURITY MATTERS PUBLIC LIMITED COMPANY"G3783J105",// CUSIP for Generating Alpha Ltd"G7866R102" // CUSIP for Security Matters PTY Ltd,"cusip_names, [["SMX SECURITY MATTERS PUBLIC LIMITED COMPANY , Generating Alpha Ltd , Security Matters PTY Ltd"],["GENERATING ALPHA LTD"],// CUSIP reference for Generating Alpha Ltd["SECURITY MATTERS PTY LTD"]// CUSIP reference for Security Matters PTY Ltd 
+"Wheeler Real Estate Investment Trust Inc , cusip, 20704217 , 20704217" // Note: duplicate entry due to "share " reference,"cusip_names,  , Series Preferred Stock , Series Cumulative Convertible Preferred Stock 
+"Wheeler Real Estate Investment Trust Inc , cusip, 969223100 , ,  , Series B Convertible Preferred Stock , Series Cumulative Convertible Preferred Stock , Subordinated Convertible Notes due 2031 
+ "company_name, "AerCap Holdings NV , cusips, 123456789 , 987654321 , , Fixed-Rate Reset Junior Subordinated Notes due 2055 , Junior Subordinated Notes due 2079 ,{"company_name, "AerCap Ireland Capital Designated Activity Company , cusips, 543216789 , , Junior Subordinated Notes due 2065 ,{"company_name, "AerCap Global Aviation Trust , cusips, 111213141 , , Fixed-to-Floating Rate Junior Subordinated Notes due 2045  
+"Rise Gold Corp , cusip, 26267468 , , Shares   
+"AerCap Holdings NV , cusip, 0072R2AC7 , 0072R2AD5 , , Fixed-Rate Reset Junior Subordinated Notes due 2055 , Additional Fixed-Rate Reset Junior Subordinated Notes due 2055 
+"AerCap Holdings NV , cusip, 00760M105", // Added an example CUSIP for AerCap Holdings NV"00760M204"// Added an example CUSIP for AerCap Holdings NV,"cusip_name, FixedRate Reset Junior Subordinated Notes due 2055 , FixedRate Reset Junior Subordinated Notes due 2079 
+"AerCap Holdings NV , cusip, 00775E105 , 00775E204 , , AerCap Holdings NV - Fixed Rate Reset Junior Subordinated Notes due 2055 , AerCap Holdings NV - Equity ,"AerCap Ireland Capital Designated Activity Company , cusip, 00775E304 , , AerCap Ireland Capital Designated Activity Company - Fixed Rate Reset Junior Subordinated Notes due 2055 ,"AerCap Global Aviation Trust , cusip, 00775E403 , , AerCap Global Aviation Trust - Fixed Rate Reset Junior Subordinated Notes due 2055  
+ "name, "AerCap Holdings NV , cusip, 03938C201 , 03938E109 , , 5.75% Fixed Rate Reset Junior Subordinated Notes due 2055 , 4.875% Fixed Rate Reset Junior Subordinated Notes due 2045 ,{"name, "AerCap Ireland Capital Designated Activity Company , cusip, 00754D307 , , 4.625% Senior Notes due 2028 ,{"name, "AerCap Global Aviation Trust , cusip, 00754D506 , , 3.875% Senior Notes due 2030  
+"AerCap Holdings NV , cusip, 0071973 , 0071972 , 0071971 , , Fixed-Rate Reset Junior Subordinated Notes due 2055 , Fixed-Rate Reset Junior Subordinated Notes due 2079 , Junior Subordinated Notes due 2045 
+"Amprius Technologies Inc , cusip, 03161R102"], "cusip, [["Amprius Technologies Inc  , Amprius Technologies Inc Public Warrants , Amprius Technologies Inc Private Warrants"] 
+"BRAND ENGAGEMENT NETWORK INC , cusip, 46752838 , 21190316 , 1583334 , 163407 , 00140130 , 981574798 , cusipNames, Shares  , Shares  Underlying Warrants , Shares  Underlying Convertible Notes , Shares  Underlying Options ,  par value , Redeemable Warrants 
+"CERo Therapeutics Holdings Inc , cusip, 44128317 , 10039 , ,  , Series Preferred Stock 
+"Core Scientific Inc , Tospring Technology Limited , Bitmain Technologies Delaware Limited , cusip, [["10795751 , 10735143 , 000001"],["60608"],["00140046"],"cusip_names, [["Common Stock , Bitmain Shares , "],["OGE Settlement Shares"],["Company CUSIP"] 
+"Dragonfly Energy Holdings Corp , cusips, 333272401 , DFLI , DFLIW , ,  , Public Warrant  
+"Starwood Real Estate Income Trust Inc , cusip, SREITSUP50724 , 2267 , 2269 , 2224 , 2249 , 2294 , 2295 , 2250 , 2275 , , SREITSUP50724 , Class S , Class T , Class D , Class I , Class SShares , Class TShares , Class DShares , Class IShares 
+ "companyName, "EWSB Bancorp Inc , cusips, 1006250 , cusipNames, EWSB Bancorp Inc Proposed Holding Company  
+"Hyzon Motors Inc , cusip, 0013962 , , Hyzon Motors Inc ,"Decarbonization Plus Acquisition Corporation , cusip, DCRB , , Decarbonization Plus Acquisition Corporation  
+"AerCap Holdings NV , cusip, 00770Y100 , 00770Y118 , , Fixed-Rate Reset Junior Subordinated Notes due 2055 , 2045 Junior Subordinated Notes 
+"LINCOLN NATIONAL LIFE INSURANCE COMPANY , cusip, [,"cusip_names, [ 
+"Lexeo Therapeutics Inc , cusip, 52789D103 , ,  
+"LORD ABBETT CREDIT OPPORTUNITIES FUND , LORD ABBETT FLOATING RATE HIGH INCOME FUND , LORD ABBETT SPECIAL SITUATIONS INCOME FUND , cusip, 00150A100 , 00150B100 , 00150C100 , , Lord Abbett Credit Opportunities Fund CUSIP , Lord Abbett Floating Rate High Income Fund CUSIP , Lord Abbett Special Situations Income Fund CUSIP 
+"Lord Abbett Credit Opportunities Fund , Lord Abbett Floating Rate High Income Fund , Lord Abbett Special Situations Income Fund , cusip, LA3CPOF , LA3FHF , LA3SSIF , , Lord Abbett Credit Opportunities Fund , Lord Abbett Floating Rate High Income Fund , Lord Abbett Special Situations Income Fund 
+"Lord Abbett Credit Opportunities Fund , Lord Abbett Floating Rate High Income Fund , Lord Abbett Special Situations Income Fund , cusip, 123456789",// Placeholder for CUSIP number as none provided in the text"987654321",// Placeholder for CUSIP number as none provided in the text"543216789" // Placeholder for CUSIP number as none provided in the text,"cusip_names, CUSIP for Lord Abbett Credit Opportunities Fund , CUSIP for Lord Abbett Floating Rate High Income Fund , CUSIP for Lord Abbett Special Situations Income Fund 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A"], // No specific CUSIP numbers were provided in the report."cusip_names, N/A"] // Corresponding names for the CUSIP are not provided.}
+"National Rural Utilities Cooperative Finance Corp , cusips, 63743F2U9 , , Senior Unsecured Notes 
+"Verde Clean Fuels Inc , cusip, 31175284 , , Class  ,"CENAQ Energy Corp , cusip, 15383263 , , Class  ,"CENAQ Sponsor LLC , cusip, 1879257 , , Private Placement Warrants ,"Bluescape Clean Fuels Holdings LLC , cusip, 22500000 , , Class C  ,"Verde Clean Fuels OpCo LLC , cusip, 22500000 , , Class C OpCo Units ,"Bluescape Clean Fuels Intermediate Holdings LLC , cusip, 15403880 , , Class   
+ "name, "NET POWER INC , cusip, 200445567 , cusip_details, Shares Class  ,  Issuable upon Exercise of Private Placement Warrants ,{"name, "Rice Acquisition Sponsor II LLC , cusip, 200445567 , cusip_details, Warrants Purchase Shares Class  , Private Placement Warrants ,{"name, "Baker Hughes Company , cusip, 200445567 , cusip_details, Shares Class  , Shares Issuable upon Redemption of Opco Units  
+"Serve Robotics Inc , cusip, 4813041 , 2104562 , 500000 , 63479 , 2145000 , , Shares  , Convertible Promissory Notes , Underwriter Warrant , Network 1 Warrants , Magna Warrant ,"Aegis Capital Corp , cusip, 500000 , , Underwriter Warrant ,"Network 1 Financial Securities Inc , cusip, 63479 , , Network 1 Warrants ,"Magna New Mobility USA , cusip, 2145000 , , Magna Warrant ,"Postmates Inc , cusip, 5298833 , 210025 , ,  , Convertible Promissory Note ,"NVIDIA , cusip, 3727033 , 1050129 , ,  , Convertible Promissory Note  
+"UBS AG , cusip, 90307DMX7 , , Nasdaq IFED 10 Target Volatility IndexTM  
+"Vaccinex Inc , cusip, 91911A100 , 91911A200 , cusipNames,  , Preferred Stock 
+"Waldencast plc , cusip, 29533282 , 131442733 , 17869732 , , Class Ordinary Shares for issuance , Class Ordinary Shares for resale , Warrants Purchase Class Ordinary Shares for resale ,"Burwell Mountain Trust , cusip, 11826110 , , Class Ordinary Shares ,"Zeno Investment Master Fund , cusip, 20500709 , , Class Ordinary Shares ,"Cedarwalk Skincare Ltd , cusip, 28637506 , , Class Ordinary Shares ,"Beauty Ventures LLC , cusip, 22412266 , , Class Ordinary Shares ,"Waldencast Ventures LP , cusip, 5159447 , , Class Ordinary Shares ,"Amorepacific Group , cusip, 2791641 , , Class Ordinary Shares ,"Erez Shternlicht , cusip, 2610803 , , Class Ordinary Shares ,"Mazdack Rassi , cusip, 2610803 , , Class Ordinary Shares ,"Moishe Mana , cusip, 2610803 , , Class Ordinary Shares ,"ACG Dairy LLC , cusip, 2305318 , , Class Ordinary Shares ,"SIP Capital Fund Ltd , cusip, 578000 , , Class Ordinary Shares ,"Fitpart DSF Fund Ltd , cusip, 547473 , , Class Ordinary Shares ,"LTS Investments Fund LP - Class 27 , cusip, 400000 , , Class Ordinary Shares ,"WPA International LP , cusip, 1000000 , , Class Ordinary Shares  
+"Wheeler Real Estate Investment Trust Inc , cusip, 969032100 , 969032208 , 969032201 , 969032307 , ,  , Series B Convertible Preferred Stock , Series Cumulative Convertible Preferred Stock , 700 Subordinated Convertible Notes due 2031 
+"Allurion Technologies Inc , cusip, 56548268 , 00141767 , ,  , Warrants 
+"ALLURION TECHNOLOGIES INC , cusip, 9482468 , 00141767 , ,  , Delaware 
+"Beacon Pointe MultiAlternative Fund , cusip, 07329A108 , , Beacon Pointe MultiAlternative Fund Class Shares 
+"Captivision Inc , cusip, 30301058 , cusipNames, Ordinary Shares 
+"BROOKFIELD REAL ESTATE INCOME TRUST INC , cusip, 112130 , 113137 , 111158 , , Class S Shares , Class I Shares , Class D Shares 
+"Core Scientific Inc , cusip, 10795751 , 10735143 , cusipNames,  , Bitmain Shares ,"Tospring Technology Limited , cusip, [,"cusipNames, [ ,"Bitmain Technologies Delaware Limited , cusip, [,"cusipNames, [  
+"JPMorgan Chase Financial Company LLC , cusip, 48135NF43 , , CUSIP for Auto Callable Contingent Interest Notes ,"JPMorgan Chase & Co , cusip, 48135NF43 , , CUSIP for Auto Callable Contingent Interest Notes  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase Co , cusip, 48135NE44 , cusipNames, CUSIP for the Auto Callable Contingent Interest Notes 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NF35 , cusipNames, Final Payment under the Notes with CUSIP 48135NF35 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NF92 , , Auto Callable Contingent Interest Notes 
+"JPMorgan Chase & Co , cusip, 48135NE85 , , CUSIP 48135NE85 
+ "name, "JPMorgan Chase Financial Company LLC , cusips, 48135ND94 ,{"name, "JPMorgan Chase & Co , cusips, 48135ND94 ,{"name, "Invesco QQQ Trust SM Series 1 , cusips, [  
+"JPMorgan Chase Financial Company LLC , cusip, 48135NE36 , , CUSIP 48135NE36 ,"JPMorgan Chase & Co , cusip, [,"cusip_names, [  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135N6H4 , , Auto Callable Contingent Interest Notes 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135N6J0 , , MQUSTVA Auto Callable Contingent Interest Notes 
+"BiomX Inc , cusip, 386200774 , 147735 , cusipNames,  , Series X Preferred Stock ,"BTX Merger Sub I Inc , cusip, [,"cusipNames, [ ,"BTX Merger Sub II LLC , cusip, [,"cusipNames, [ ,"Adaptive Phage Therapeutics Inc , cusip, [,"cusipNames, [ ,"Laidlaw & Co UK Ltd , cusip, [,"cusipNames, [ ,"RBC Capital Markets LLC , cusip, [,"cusipNames, [  
+"JPMorgan Chase Financial Company LLC , cusip, 48135N6K7 , cusipNames, MerQube US Tech Vol Advantage Index 
+"JPMorgan Chase Financial Company LLC , cusip, 48135N6L5 , , CUSIP: 48135N6L5 ,"JPMorgan Chase & Co , cusip, [,"cusip_names, [ ,"Invesco QQQ Trust SM Series 1 , cusip, [,"cusip_names, [ ,"JP Morgan Securities LLC , cusip, [,"cusip_names, [  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135ND78 , cusipNames, CUSIP Preliminary Pricing Supplement 
+"JP Morgan Kronos US Equity JPUSKRSE Excess Return Index , cusip, JPM123456789"], // Example CUSIP number as it was not provided in the report."cusip_names, JP Morgan Kronos US Equity JPUSKRSE Excess Return Index 
+"JP Morgan Kronos US Equity , cusip, 123456789 , , JPUSKRSE Excess Return Index 
+"JP Morgan Kronos US Equity , cusip, JPUSKRSP , , JP Morgan Kronos US Equity JPUSKRSP Index 
+"JP Morgan Kronos US Equity , cusip, JPUSKRSP , , JP Morgan Kronos SM US Equity , JP Morgan Kronos US Equity  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NG67 , , CUSIP for Auto Callable Contingent Interest Notes 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase Co , cusip, 48135N6G6 , cusip_name, Auto Callable Contingent Interest Notes 
+"JPMorgan Chase Financial Company LLC , cusip, 48135N6M3 , , 5yrNC6m MQUSSVA Auto Callable Contingent Interest Notes ,"JPMorgan Chase & Co , cusip, 48135N6M3 , , 5yrNC6m MQUSSVA Auto Callable Contingent Interest Notes  
+"Citigroup Global Markets Holdings Inc , cusip, 17332MGD0 , , Contingent Income AutoCallable Securities Due July 2027 Based Worst Performing  ,"Apple Inc , cusip, [,"cusip_names,  , Class  ,"Alphabet Inc , cusip, [,"cusip_names, Class  ,"Netflix Inc , cusip, [,"cusip_names,   
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135ND52 , , CUSIP for Auto Callable Contingent Interest Notes 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NF43 , , Preliminary Pricing Supplement 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, [["48135NE44"],"cusip_names, [["CUSIP for Auto Callable Contingent Interest Notes"] 
+"JPMorgan Chase Financial Company LLC , cusips, 48135NF35 , , 5yrNC1yr MQUSLVA Auto Callable Contingent Interest Notes ,"JPMorgan Chase & Co. , cusips, [,"cusip_names, [  
+"JPMorgan Chase Financial Company LLC , cusip, 48135NF92 , , MerQube US Large Cap Vol Advantage Index 
+{"data, "JPMorgan Chase Financial Company LLC , cusip, 48135NE85 , , CUSIP 48135NE85 ,"JPMorgan Chase & Co. , cusip, 48124F106"], // assumed as it's common practice linking to underlining subsidiaries"cusip_names, CUSIP 48124F106  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , MerQube US Tech Vol Advantage Index , Invesco QQQ Trust SM Series 1 , cusip, [["48135ND94"],[],[],[],"cusip_names, [["CUSIP for Contingent Interest Notes"],[],[],[] 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NE36 , , MerQube US Tech Vol Advantage Index 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase Co , cusip, 48135N6H4 , , MerQube US Large Cap Vol Advantage Index 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , Invesco QQQ Trust SM Series 1 , cusip, 48135N6J0 , , JPMorgan Chase Financial Company LLC - 48135N6J0 
+"CANTOR FITZGERALD INCOME TRUST INC , cusips, 333273828 , , Cantor Fitzgerald Income Trust Inc 
+ "name, "JPMorgan Chase Financial Company LLC , cusip, 48135N6K7 , , CUSIP for Auto Callable Contingent Interest Notes ,{"name, "JPMorgan Chase & Co. , cusip, 48135N6K7 , , CUSIP for Auto Callable Contingent Interest Notes ,{"name, "Invesco QQQ Trust SM Series 1 , cusip, [,"cusip_names, [  
+"JPMorgan Chase Financial Company LLC , cusip, 48135N6L5 , , CUSIP for notes offered ,"JPMorgan Chase Co , cusip, [,"cusip_names, [ ,"Invesco QQQ Trust SM Series 1 , cusip, [,"cusip_names, [  
+"JPMorgan Chase Financial Company LLC , cusip, 48135ND78 , , MerQube US Tech Vol Advantage Index 
+"JP Morgan Kronos US Equity JPUSKRSE Excess Return Index , cusip, 46625H107 , cusip_name, JP Morgan Kronos Index CUSIP 
+"J P Morgan Kronos US Equity JPUSKRSE Excess Return Index , cusip, [,"cusip_names, [ 
+"JP Morgan , cusip, JPUSKRSP , JPM , cusip_registry, Kronos US Equity Index , JPMorgan Chase & Co. 
+"JP Morgan Kronos US Equity , cusip, JPUSKRSP , , JPUSKRSP Index 
+"JPMorgan Chase Financial Company LLC , cusips, 48135NG67 ,"JPMorgan Chase Co. , cusips, [  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135N6G6 , , Auto Callable Contingent Interest Notes 
+ "name, "JPMorgan Chase Financial Company LLC , cusip, 48135N6M3 , cusip_name, 5yrNC6m MQUSSVA Auto Callable Contingent Interest Notes ,{"name, "JPMorgan Chase & Co , cusip, 48135N6M3 , cusip_name, 5yrNC6m MQUSSVA Auto Callable Contingent Interest Notes  
+"Citigroup Global Markets Holdings Inc , Apple Inc , Alphabet Inc , Netflix Inc , cusip, 17332MGD0 , 17332MGD0 , 17332MGD0 , 17332MGD0 , , Contingent Income AutoCallable Securities Due July 2027 Based on Worst Performing  Apple Inc Class  Alphabet Inc  Netflix Inc Principal Risk Securities by Citigroup Global Markets Holdings Inc 
+"APOLLO REALTY INCOME SOLUTIONS INC , cusip, 208986 , 209824 , 208409 , 206989 , 210176 , 209706 , 210866 , , Class shares , Class shares , Class FI shares , Class AI shares , Class AII shares , Class E shares 
+{ "companies":  "cn":"JPMorgan Chase Financial Company LLC , cusips":["48135ND52" ], "cusip_names":["Auto Callable Contingent Interest Notes"  ,{ "cn":"JPMorgan Chase & Co , cusips":["48135ND52" ], "cusip_names":["Auto Callable Contingent Interest Notes"    
+"LeddarTech Holdings Inc , cusip, LTC0916A10 , , COMMON SHARES , WARRANTS PURCHASE COMMON SHARES , COMMON SHARES UNDERLYING WARRANTS , COMMON SHARES UNDERLYING CONVERTIBLE NOTES 
+"LeddarTech Holdings Inc , cusip, 333275381 , 333277045 , 333279803 , , Registration No 333275381 , Registration No 333277045 , Registration No 333279803  
+{"companyName, "LeddarTech Holdings Inc , cusip, 4535 boulevard WilfridHamel Suite 240 Quebec G1P 2J7 , cusipNames, Registration No 333275381 , Registration No 333277045 , Registration No 333279803 
+"Mullen Automotive Inc , cusip, 62527P101 , , [["Common Stock"] 
+"NRx Pharmaceuticals Inc , Streeterville Capital LLC , Alvogen Inc , Alvogen Pharma US Inc , Lotus Pharmaceutical Co Ltd , cusip, [[],[],[],[],[],"cusipNames, [[],[],[],[],[] 
+"Toronto-Dominion Bank , cusip, 89115GBJ7 , , US89115GBJ76  
+"Toronto Dominion Bank , cusip, 89115GBJ7 , US89115GBJ76 , cusipNames, CUSIP: 89115GBJ7 , CUSIP: US89115GBJ76  
+ "companyName, "Tenon Medical Inc , cusip, 88360A105 , cusipNames,  ,{"companyName, "Lincoln Park Capital Fund LLC , cusip, 5361R3038 , cusipNames, Preferred Stock  
+"COTTONWOOD COMMUNITIES INC , cusip, 22013G102 , , Cottonwood Communities, Inc.  
+"VinFast Auto Ltd , cusip, 64041969 , 60720967 , 3321002 , 3672708 , , Ordinary Shares , Ordinary Shares , Ordinary Shares issuable upon exercise , Warrants 
+"VinFast Auto Ltd , cusip, VFS , VFSWW , cusipNames, VinFast Ordinary Shares , VinFast Warrants 
+"VinFast Auto Ltd , cusip, 95273331 , , Ordinary Shares  
+"1st FRANKLIN FINANCIAL CORPORATION , cusip, 1FFC , , VARIABLE RATE SUBORDINATED DEBENTURES 
+"1st Franklin Financial Corporation , cusip, [,"cusip_names, [ 
+"JLL Income Property Trust Inc , cusip, 47785F302 , , JLL Income Property Trust Inc Class A Shares 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135MGS1 , , Auto Callable Barrier Notes Linked Least Performing Dow Jones Industrial Average® Russell 2000® Index Nasdaq100® Technology Sector IndexSM 
+"MerQube US Small Cap Vol Advantage Index , cusip, 48133P6H1 , 48133PJ79 , 48133PJ95 , 48133PJ53 , , MerQube US Small Cap Vol Advantage Index - 48133P6H1 , MerQube US Small Cap Vol Advantage Index - 48133PJ79 , MerQube US Small Cap Vol Advantage Index - 48133PJ95 , MerQube US Small Cap Vol Advantage Index - 48133PJ53 ,"MerQube US Small Cap Vol Advantage Index , cusip, 48133P6Y4 , 48133PK69 , 48133PK85 , 48133PK44 , , MerQube US Small Cap Vol Advantage Index - 48133P6Y4 , MerQube US Small Cap Vol Advantage Index - 48133PK69 , MerQube US Small Cap Vol Advantage Index - 48133PK85 , MerQube US Small Cap Vol Advantage Index - 48133PK44  
+"MerQube US Tech Vol Advantage Index , Invesco QQQ Trust , cusip, [["48133P6F5 , 48133PJ79 , 48133PJ95 , 48133PJ53"],["48133P6W8 , 48133PK69 , 48133PK85 , 48133PK44"],"cusip_names, [["CUSIP January 2 2026 , CUSIP January 2 2026 , CUSIP January 2 2026 , CUSIP January 2 2026"],["CUSIP January 3 2028 , CUSIP January 3 2028 , CUSIP January 3 2028 , CUSIP January 3 2028"] 
+"MerQube US Large Cap Vol Advantage Index , cusip, 48133P6G3 , 48133PJ79 , 48133PJ95 , 48133PJ53 , , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index ,"MerQube US Large Cap Vol Advantage Index , cusip, 48133P6X6 , 48133PK69 , 48133PK85 , 48133PK44 , , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index  
+"Critical Metals Corp , cusip, 00141973 , , Critical Metals Corp 
+"JPMorgan Chase Financial Company LLC , cusip, 48135MGS1 , , Auto Callable Barrier Notes Linked Least Performing Dow Jones Industrial Average , Russell 2000 Index , Nasdaq100 Technology Sector Index due May 15 2029 
+"MerQube US Small Cap Vol Advantage Index , cusip, 48133P6H1 , 48133PJ79 , 48133PJ95 , 48133PJ53 , cusipNames, MerQube US Small Cap Vol Advantage Index CUSIP 48133P6H1 , MerQube US Small Cap Vol Advantage Index CUSIP 48133PJ79 , MerQube US Small Cap Vol Advantage Index CUSIP 48133PJ95 , MerQube US Small Cap Vol Advantage Index CUSIP 48133PJ53 ,"MerQube US Small Cap Vol Advantage Index , cusip, 48133P6Y4 , 48133PK69 , 48133PK85 , 48133PK44 , cusipNames, MerQube US Small Cap Vol Advantage Index CUSIP 48133P6Y4 , MerQube US Small Cap Vol Advantage Index CUSIP 48133PK69 , MerQube US Small Cap Vol Advantage Index CUSIP 48133PK85 , MerQube US Small Cap Vol Advantage Index CUSIP 48133PK44  
+"MerQube US Tech Vol Advantage Index , QQQ Fund , cusip, [["48133P6F5 , 48133PJ79 , 48133PJ95 , 48133PJ53"],["48133P6W8 , 48133PK69 , 48133PK85 , 48133PK44"],"cusip_names, [["CUSIP January 2, 2026 , CUSIP January 2, 2026 , CUSIP January 2, 2026 , CUSIP January 2, 2026"],["CUSIP January 3, 2028 , CUSIP January 3, 2028 , CUSIP January 3, 2028 , CUSIP January 3, 2028"] 
+"JPMorgan Chase & Co. , cusip, 48133P6G3 , 48133PJ79 , 48133PJ95 , 48133PJ53 , , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index ,"JPMorgan Chase & Co. , cusip, 48133P6X6 , 48133PK69 , 48133PK85 , 48133PK44 , , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index , MerQube US Large Cap Vol Advantage Index  
+"Mobix Labs Inc , cusip, 19905953 , , Class  ,"Chavant Capital Acquisition Corp , cusip, PnT3A68 , F5BXG86 , , Class  , Warrants  
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 333275151 , , MediumTerm Notes Series Due Nine Months 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A , cusipNames, MediumTerm Notes Series Due Nine Months 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A"], // No specific CUSIP numbers were provided in the report"cusip_names, N/A 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 123456789 , , MediumTerm Notes Series Due Nine Months 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A , , MediumTerm Notes Series Due Nine Months 
+"Citigroup Inc , cusip, 17290A6N5 , , Callable Fixed Rate Notes Due July 31 2034 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A , , [ 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A , , N/A 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A , , CUISIP is not explicitly listed in the provided report. 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 63743DAA3 , , Medium-Term Notes Series Due Nine Months 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A"],// No specific CUSIP numbers were provided in the report"cusip_name, [ 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A , , N/A 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 637430AA3 , , MediumTerm Notes Series Due Nine Months 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 63710DAN4 , cusipNames, MediumTerm Notes Series Due Nine Months 
+"PARKERVISION INC , cusip, 44461A , , Convertible Promissory Notes , Amended Restated Convertible Note 
+"PARKERVISION INC , cusip, 44461A , ,  
+"EQUITABLE FINANCIAL LIFE INSURANCE CO AMERICA , cusip, 333265027 , , Registration No 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 333275151 , cusipNames, MediumTerm Notes Series Due Nine Months  
+"Oxford Park Income Fund Inc , cusip, 69101A105 , cusip_name, Common Shares Beneficial Interest 
+"QT Imaging Holdings Inc , cusip, 17711129 , 43795000 , 00140839 , ,  ,  ,  
+ "name, "Roma Green Finance Limited , cusips, US0001 , US0351  
+"Tenon Medical Inc , cusip, 88021F108 , cusip_name,  
+"JP Morgan Real Estate Income Trust Inc , cusip, 46625H102 , , Class D Shares , Class I Shares , Class S Shares , Class T Shares , Class E Shares , Class X Shares , Class Y Shares 
+"Trump Media Technology Group Corp , cusip, 00140779 , cusip_name,  par value 00001 per share ,"YA II PN LTD , cusip, 854293042 , cusip_name, Cayman Islands exempt limited partnership  
+"UBS AG , cusip, 90307D2D3 , , CUSIP for UBS AG Trigger Callable Contingent Yield Notes 
+"Vintage Wine Estates Inc , cusip, VWE , ,  
+"Vintage Wine Estates Inc , cusip, 92721A107 , ,  
+"Yieldstreet Alternative Income Fund Inc , cusip, 1762229  
+"Bank Montreal , cusip, 06376AQR4 , , CUSIP number note 06376AQR4 ,"BMO Capital Markets Corp , cusip, [,"cusip_names, [ 
+"Bank Nova Scotia , cusip, 06417YY86 , cusip_desc, US06417YY869 
+"Bank Nova Scotia , cusip, 06417YY78 , , US06417YY786 
+"Beneficient , cusip, 00141715 , , Beneficient 
+"Beneficient , cusip, 00141715 , , Beneficient Exact Name Registrant Specified Charter Nevada 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135N6B7 , cusipNames, JPMorgan Dynamic Blend Index Note 
+"Beneficient , cusip, 00141715 , 721573705 , , Shares Class  , Shares Series Convertible Preferred Stock  
+"Beneficient , cusip, 00141715 , 721573705 , cusip_name,  , Series Convertible Preferred Stock 
+"Beneficient , cusip, 00141715 , 721573705 , cusip_name, Beneficient Class  , Beneficient Series Convertible Preferred Stock 
+"Estrella Immunopharma Inc , cusip, 3829338 , 00140608 , 861314502 , ,  ,  ,  
+"Gaia Inc , cusip, 36176F103 , cusip_name, Gaia Inc, Class  
+"GT Biopharma Inc , cusip, 36250B106 , cusip-names,  
+"JPMorgan Chase Financial Company LLC , cusip, 48135NW93 , cusipNames, CUSIP 48135NW93 ,"Invesco QQQ Trust SM Series 1 , cusip, [,"cusipNames, [  
+ "name, "JPMorgan Chase Financial Company LLC , cusips, 48135NY83 , cusipNames, Preliminary Pricing Supplement ,{"name, "JPMorgan Chase & Co. , cusips, [,"cusipNames, [ ,{"name, "Invesco QQQ Trust SM Series 1 , cusips, [,"cusipNames, [ ,{"name, "MerQube US Tech Vol Advantage Index , cusips, [,"cusipNames, [  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NY34 , , CUSIP 48135NY34 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135N6B7 , , JPMorgan Dynamic Blend Index Notes 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NL53 , , CUSIP Number for JPMorgan Chase Financial Company LLC 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NX27 , , CUSIP 48135NX27 
+{"company_name, "JPMorgan Chase Financial Company LLC , cusips, 48135NK96 , , SP ® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NW85 , , CUSIP 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NL79 , cusip_name, CUSIP 48135NL79 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NW77 , , Initial Value , Buffer Amount ,"JPMorgan Chase & Co , cusip, 48135NW77 , , Guarantor , Issuer ,"Invesco QQQ Trust SM Series 1 , cusip, Not Specified , , QQQ Fund  
+"JPMorgan Chase Financial Company LLC , cusip, 48135NT89 , , CUSIP for JPMorgan Chase Financial Company LLC 
+"JPMorgan Chase Financial Company LLC , cusips, 48135NY75 , , CUSIP Number for 5yr Auto Callable Review Notes Linked MerQube US Tech Vol Advantage Index 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NK70 , , CUSIP for JPMorgan Multi Asset Index Linked Notes 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NW93 , , CUSIP for 5yrNC1yr Contingent Interest Auto Callable Notes Linked MerQube US Tech Vol Advantage Index 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, NOT AVAILABLE , , MediumTerm Notes Series Due Nine Months 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NY83 , cusip_name, 5yr Auto Callable Review Notes Linked MerQube US Tech Vol Advantage Index 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NY34 , , CUSIP 48135NY34 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co. , cusip, 48135NL53 , , CUSIP 48135NL53 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NX27 , cusip_description, 5yNC1y Contingent Interest Auto Callable Notes linked MerQube US Tech Vol Advantage Index 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NK96 , cusipNames, CUSIP for Notes issued by JPMorgan Chase Financial Company LLC 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NW85 , , 5yNC1y Contingent Interest Auto Callable Notes linked MerQube US Tech Vol Advantage Index 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NL79 , , CUSIP 48135NL79 ,"JPMorgan Chase & Co , cusip, 48124WAD3"],// Assumption made as there is no direct mention but it's a common CUSIP for JPM"cusip_names, CUSIP 48124WAD3  
+"JPMorgan Chase Financial Company LLC , cusip, 48135NW77 , , 5yNC1y Contingent Interest Auto Callable Notes linked MerQube US Tech Vol Advantage Index  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co. , cusip, 48135NT89 , , Preliminary Pricing Supplement 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co. , cusip, 48135NY75 , , CUSIP for 5yr Auto Callable Review Notes Linked to MerQube US Tech Vol Advantage Index 
+"NUVEEN GLOBAL CITIES REIT INC , cusip, 67095L107 , 67095L116 , 67095L125 , 67095L134 , , Class T Shares , Class S Shares , Class D Shares , Class I Shares 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NK70 , , CUSIP 48135NK70 ,"JPMorgan Chase & Co , cusip, [,"cusip_names, [  
+ "name, "KUMYANG CO LTD , cusips, AMERICAN DEPOSITARY RECEIPT evidencing AMERICAN DEPOSITARY SHARES representing ORDINARY SHARES , cusip_descriptions, CUMYAN CO LTD American Depositary Receipt evidencing American Depositary Shares representing Ordinary Shares  
+"Moolec Science SA , cusip, 62020B100 , cusipNames, Ordinary Shares 
+"Moolec Science SA , cusip, 11110000 , 35818285 , cusipNames, ORDINARY SHARES , ORDINARY SHARES Offered 
+"Purple Biotech Ltd , cusip, 74587H105 , , American Depositary Shares , Ordinary Shares 
+"Republic Chile , cusip, 1625 , 3125 , 1750 , 3125 , 0100 , 2750 , 3240 , 0555 , 4850 , 1440 , 1875 , 2450 , 0830 , 2550 , 2550 , 3500 , 4125 , 4950 , 1300 , 1250 , 3100 , 4340 , 3625 , 3860 , 3500 , 2550 , 4000 , 3500 , 5330 , 3100 , 3250 , , €1583458000 Notes due January 30 2025 , US264832000 Notes due March 27 2025 , €975280000 Notes due January 20 2026 , US600788000 Notes due January 21 2026 , €1000000000 Notes due January 26 2027 , US1500000000 Notes due January 31 2027 , US1793691000 Notes due February 6 2028 , €918000000 Notes due January 21 2029 , US1700000000 Notes due January 22 2029 , €670697000 Notes due February 1 2029 , €1273559000 Notes due May 27 2030 , US1465534000 Notes due January 31 2031 , €1954685000 Notes due July 2 2031 , US1500000000 January 27 2032 , US2250000000 July 27 2033 , US1500000000 January 31 2034 , €1175688963 July 5 2034 , €1649852623 January 5 2036 , €750000000 July 26 2036 , €1269017000 Notes due January 29 2040 , US2700000000 Notes due May 7 2041 , US2000000000 Notes due March 27 2042 , US330062000 Notes due October 30 2042 , US1051796000 Notes due June 21 2047 , US2318357000 Notes due January 25 2050 , €1250000000 Notes due January 22 2051 , US1000000000 Notes due January 31 2052 , US1500000000 Notes due April 15 2053 , US1481658578 Notes due January 5 2053 , US2000000000 Notes due January 22 2061 , US1000000000 Notes due September 21 2071 
+"RREEF PROPERTY TRUST INC , cusip, [,"cusip_names, [ 
+"Tenon Medical Inc , cusip, 87258V100 , 87258V209 , cusipName,  , Series Preferred Stock 
+ "name, "Amazoncom Inc , cusips, 90307DC26 , , CUSIP: 90307DC26  
+"Vireo Growth Inc , Goodness Growth Holdings Inc , cusip, 92767B105 , , Subordinate Voting Shares 
+"WESTERN ASSET MORTGAGE OPPORTUNITY FUND INC , cusip, G9587W102 , cusip_name, CUSIP number for Western Asset Mortgage Opportunity Fund Inc 
+"YIELDSTREET ALTERNATIVE INCOME FUND INC , cusip, YieldStreet Alternative Income Fund Inc , CUSIP may not be directly cited in this document, but the share class would associate with specific investment vehicles 
+"Allurion Technologies Inc , cusip, 948246 , cusip_name,  
+"Allurion Technologies Inc , cusip, 00141767 , 922182207 , cusipNames, CUSIP 00141767 , CUSIP 922182207  
+"ANGEL OAK STRATEGIC CREDIT FUND , cusip, 333220480 , , ANGEL OAK STRATEGIC CREDIT FUND 
+"APOLLO REALTY INCOME SOLUTIONS INC , cusip, [,"cusip_names, [ 
+ "name, "Bank Montreal , cusip, 06376APU8 , cusip_description, Senior Medium-Term Notes Series Market Linked Notes due December 31 2025 ,{"name, "BMO Capital Markets Corp , cusip, 06376APU8 , cusip_description, Agent offering for the note issued by Bank Montreal  
+"CNL Strategic Capital LLC , Sill Public Adjusters , Seltser Goldstein Public Insurance Adjusters , cusip, [,"cusip_names, [ 
+"Critical Metals Corp , cusip, 00141973 , 333278400 , 333280017 , , Commission File Number 00141973 , Registration Statement No 333278400 , Form S8 File No 333280017 
+"Eyenovia Inc , cusip, 4870130 , 4838709 , , Share  (par value 0.00001 per share) , Share  (pursuant term security purchase agreement entered August 24 2023) 
+"Unicycive Therapeutics Inc , cusips, [,"cusip_names, [  
+"EVE HOLDING INC , cusips, 319264425 , , SHARES  ,"Embraer SA , cusips, 0001823652 , ,  , Warrant Member ,"Zanite Acquisition Corp , cusips, 0001823652 , , Class B  ,"United Airlines Ventures Ltd , cusips, [,"cusip_names, [ ,"Embraer Aircraft Holding Inc , cusips, [,"cusip_names, [  
+"Hagerty Inc , cusip, 5749989 , 257500 , 28750 , 1300000 , 12147300 , , Public Warrants , Private Placement Warrants , Underwriter Warrants , OTM Warrants , PIPE Warrants 
+"John Hancock Financial Opportunities Fund , cusip, 47837N109 , , John Hancock Financial Opportunities Fund Common Shares 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NY42 , , CUSIP for 3yr Auto Callable Review Notes linked to MerQube US Large Cap Vol Advantage Index 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NX92 , cusip_name, CUSIP 48135NX92 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NX76 , cusip_name, CUSIP for 3yr Auto Callable Review Notes Linked MerQube US Tech Vol Advantage Index 
+"JP Morgan Multi Asset Index , JPMorgan Chase Financial Company LLC , JPMorgan Chase Co , cusip, 48135NK88 , cusipNames, CUSIP for JP Morgan Multi Asset Index 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NL61 , , CUSIP 48135NL61 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NK62 , , 5yr Auto Callable JP Morgan Multi Asset Linked Index Notes 
+ "name, "JPMorgan Chase Financial Company LLC , cusip, 48135NL20 , , CUSIP 48135NL20 ,{"name, "JPMorgan Chase & Co. , cusip, 48124X107 , , CUSIP 48124X107  
+"UpHealth Inc , cusip, 00138924 , , CUSIP Number for UpHealth Inc 
+"Bank Montreal , cusip, 06368L304 , cusipNames, MicroSectors Energy 3X Leveraged ETNs due January 29 2043 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NP26 , , CUSIP 48135NP26 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NL46 , , CUSIP 48135NL46 ,"JPMorgan Chase & Co. , cusip, 48124W213 , , CUSIP 48124W213  
+{"company_name, "JPMorgan Chase Financial Company LLC , cusips, 48135N7M2 , , CUSIP for JPMorgan Chase Financial Company LLC 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NY26 , , JPMorgan Chase Financial Company LLC CUSIP 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NY67 , , Preliminary Pricing Supplement 
+"JPMorgan Chase Financial Company LLC , cusip, 48129KDE7 , , CUSIP for JPMorgan Chase Financial Company LLC - 5 Year Return Notes Linked to JP Morgan Total Return Index ,"JPMorgan Chase & Co. , cusip, 48129KDE7 , , CUSIP for JPMorgan Chase & Co. - 5 Year Return Notes Linked to JP Morgan Total Return Index  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NK54 , , CUSIP 48135NK54 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NL38 , , CUSIP 48135NL38 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NY42 , , CUSIP for JPMorgan Chase Financial Company LLC 
+ "name, "JPMorgan Chase Financial Company LLC , cusips, 48135NX92 , , 5yr Auto Callable Review Notes linked MerQube US Tech Vol Advantage Index ,{"name, "JPMorgan Chase & Co , cusips, [,"cusip_names, [ ,{"name, "Invesco QQQ Trust SM Series 1 , cusips, [,"cusip_names, [  
+"Zapp Electric Vehicles Group Limited , cusip, 1436339 , , Ordinary Shares 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NX76 , , CUSIP 48135NX76 ,"JPMorgan Chase & Co. , cusip, 48135NX76 , , CUSIP 48135NX76 ,"MerQube US Tech Vol Advantage Index , cusip, MQUSTVA , , Bloomberg ticker MQUSTVA  
+"JPMorgan Chase Financial Company LLC , cusip, 48135NK88 , , JPMorgan Chase Financial Company LLC - CUSIP 48135NK88 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NL61 , cusip_desc, CUSIP for the notes linked to JP Morgan Kronos SM Index 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NK62 , , 5yr Auto Callable JP Morgan Multi Asset Linked Index Notes ,"JPMorgan Chase & Co , cusip, 48135NK62 , , 5yr Auto Callable JP Morgan Multi Asset Linked Index Notes  
+{"data, "JPMorgan Chase Financial Company LLC , cusip, 48135NL20 , , CUSIP for JPMorgan Chase Financial Company LLC  
+"JPMorgan Chase Financial Company LLC , cusip, 48135NP26  
+"JPMorgan Chase Financial Company LLC , cusip, 48135NL46 , , Preliminary Pricing Supplement 
+"JPMorgan Chase Financial Company LLC , cusip, 48135N7M2 , , CUSIP 48135N7M2 
+"JPMorgan Chase Financial Company LLC , cusips, 48135NY26 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NY67 , cusip_name, CUSIP for JPMorgan Chase Financial Company LLC 
+"Bitcoin Depot Inc , cusip, 83747027 , cusip_name, Class  
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48129KDE7 , , CUSIP 48129KDE7 
+"JPMorgan Chase Financial Company LLC , JPMorgan Chase & Co , cusip, 48135NK54 , cusipNames, CUSIP 48135NK54 
+"JPMorgan Chase Financial Company LLC , cusip, 48135NL38 , cusipName, CUSIP for 3yr Uncapped Barrier Notes linked to JP Morgan Kronos SM Index  
+"JPMorgan Private Markets Fund , cusip, 48130A103 , , JPMorgan Private Markets Fund Class A , JPMorgan Private Markets Fund Class D , JPMorgan Private Markets Fund Class I 
+"Nuburu Inc , cusip, 67021W301 , ,  
+"Nuburu Inc , cusip, 67021W301 , ,  CUSIP for reverse stock split 
+"PGIM Credit Income Fund , cusip, 69338N100 , 69338N300 , 69338N400 , , PGIM Credit Income Fund Class A Shares , PGIM Credit Income Fund Class B Shares , PGIM Credit Income Fund Class C Shares 
+ "company_name, "Prosper Funding LLC , cusip_numbers, 333257739 , 33325773901 , , Borrower Payment Dependent Notes ,{"company_name, "Prosper Marketplace Inc , cusip_numbers, [,"cusip_names, [  
+"PROSPER FUNDING LLC , PROSPER MARKETPLACE INC , cusip, 00000 , 11111 , , [["Borrower Payment Dependent Notes , PMI Management Rights , Prosper Funding LLC"],["PMI Management Rights"] 
+ "name, "Corebridge Financial Inc , cusips, 21871XAQ2 , U20256AH3 , 21871XAR0 , US21871XAQ25 , USU20256AH37 , US21871XAR08 , cusipNames, 6050 Senior Notes due 2033 , Registered 6050 Senior Notes due 2033 , New Notes 6050 Senior Notes due 2033 , Old Notes 6050 Senior Notes due 2033  
+"RiverSource Structured Solutions , cusip, PRO911912B01 , cusipNames, RiverSource® Structured Solutions 2SM annuity 
+"RiverSource Life Insurance Company , cusip, 910312A01 , 03328976 , SUP910300030724 , cusipNames, RiverSource Structured SolutionsSM annuity , SEC annual report Form 10K , SEC quarterly report Form 10Q 
+"Royal Bank Canada , cusip, 78015QKG5 , cusipNames, Return Notes Variable Coupons Linked Basket ClosedEnd Funds Due June 25 2026 ,"Advent Convertible Income Fund , cusip, [,"cusipNames, [ ,"BlackRock Enhanced Equity Dividend Trust , cusip, [,"cusipNames, [ ,"BlackRock MultiSector Income Trust , cusip, [,"cusipNames, [ ,"BlackRock Science Technology Trust , cusip, [,"cusipNames, [ ,"BlackRock Enhanced Capital Income Fund Inc , cusip, [,"cusipNames, [ ,"Calamos Strategic Total Return Fund , cusip, [,"cusipNames, [ ,"Gabelli Dividend Income Trust , cusip, [,"cusipNames, [ ,"John Hancock TaxAdvantaged Dividend Income Fund , cusip, [,"cusipNames, [ ,"PGIM High Yield Bond Fund Inc , cusip, [,"cusipNames, [ ,"Virtus Equity Convertible Income Fund , cusip, [,"cusipNames, [ ,"Cohen Steers REIT Preferred Income Fund Inc , cusip, [,"cusipNames, [ ,"Source Capital Inc , cusip, [,"cusipNames, [ ,"SRH Total Return Fund Inc , cusip, [,"cusipNames, [ ,"Columbia Seligman Premium Technology Growth Fund Inc , cusip, [,"cusipNames, [ ,"Tekla Healthcare Opportunities Fund , cusip, [,"cusipNames, [  
+ "name, "Royal Bank of Canada , cusips, 78015QKF7 , , Return Notes Variable Coupons Linked Basket ClosedEnd Funds Due June 25 2026 ,{"name, "Advent Convertible Income Fund , cusips, [,"cusip_names, AVK UN ,{"name, "BlackRock Enhanced Equity Dividend Trust , cusips, [,"cusip_names, BDJ UN ,{"name, "BlackRock MultiSector Income Trust , cusips, [,"cusip_names, BIT UN ,{"name, "BlackRock Science Technology Trust , cusips, [,"cusip_names, BST UN ,{"name, "BlackRock Enhanced Capital Income Fund Inc , cusips, [,"cusip_names, CII UN ,{"name, "Calamos Strategic Total Return Fund , cusips, [,"cusip_names, CSQ UW ,{"name, "Gabelli Dividend Income Trust , cusips, [,"cusip_names, GDV UN ,{"name, "John Hancock Tax-Advantaged Dividend Income Fund , cusips, [,"cusip_names, HTD UN ,{"name, "PGIM High Yield Bond Fund Inc , cusips, [,"cusip_names, ISD UN ,{"name, "Virtus Equity Convertible Income Fund , cusips, [,"cusip_names, NIE UN ,{"name, "Cohen & Steers REIT Preferred Income Fund Inc , cusips, [,"cusip_names, RNP UN ,{"name, "Source Capital Inc , cusips, [,"cusip_names, SOR UN ,{"name, "SRH Total Return Fund Inc , cusips, [,"cusip_names, STEW UN ,{"name, "Columbia Seligman Premium Technology Growth Fund Inc , cusips, [,"cusip_names, STK UN ,{"name, "Tekla Healthcare Opportunities Fund , cusips, [,"cusip_names, THQ UN  
+"TriSalus Life Sciences Inc , cusip, 00139813 , 853009869 , , CUSIP for  , CUSIP for Warrants  
+"TriSalus Life Sciences Inc , cusip, 00139813 , 853009869 , ,  , Warrants 
+ "name, "TRISALUS LIFE SCIENCES INC , cusips, 00139813 , 853009869 , ,  , Warrants  
+"UBS AG , cusip, 90307DG48 , , United States Natural Gas Fund LP 
+"VinFast Auto Ltd , cusip, 64041969 , 3321002 , 60720967 , VFS1 , VFS2 , , Ordinary Shares , Ordinary Shares issuable upon exercise , Ordinary Shares , Original Convertible Debenture , New Convertible Debenture 
+"VinFast Auto Ltd , cusip, 95273331 , , Ordinary Shares 
+"Dermata Therapeutics Inc , cusip, N/A", // CUSIP not available in the provided text,"cusip_names, [ 
+"VinFast Auto Ltd , cusip, VFS1 , VFS2 , , Original Convertible Debenture , New Convertible Debenture 
+"Wheeler Real Estate Investment Trust Inc , cusip, 96964M100 , ,  , Series B Convertible Preferred Stock , Series Cumulative Convertible Preferred Stock , Subordinated Convertible Notes due 2031 
+"EQT Exeter Real Estate Income Trust Inc , cusip, 29414B102 , , CUSIP number for  of EQT Exeter Real Estate Income Trust Inc 
+"Gold Royalty Corp , cusip, 2906977 , , Common Shares 
+"Hepion Pharmaceuticals Inc , cusips, 1470590 , 333280752 , 333254996 , 333275231 , , Hepion Pharmaceuticals Inc -  , Hepion Pharmaceuticals Inc - Warrant Inducement Transaction , Hepion Pharmaceuticals Inc - Series B1 Warrants , Hepion Pharmaceuticals Inc - Series B2 Warrants 
+"IPC Alternative Real Estate Income Trust Inc , cusip, 247737 , 248908 , 249031 , 249597 , 250439 , 250075 , , Class A  , Class B  , Class C  , Class D  , Class E  , Class F  
+"LENZ THERAPEUTICS INC , cusip, 52601H104 , ,  
+"Lexeo Therapeutics Inc , cusip, 00141855 , ,  
+"BGO Industrial Real Estate Income Trust Inc , cusip, BGOI1234567 , BGOI7654321 , BGOI8901234 , , Class E  , Class T  , Class S  
+ "name, "Timberline Resources Corporation , cusips, [,"cusip_names, [ ,{"name, "McEwen Mining Inc , cusips, [,"cusip_names, [ ,{"name, "Lookout Merger Sub Inc , cusips, [,"cusip_names, [  
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A"], // No specific CUSIP number is mentioned in the provided text"cusip_names, [] // No specific CUSIP names mentioned}
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 637261AG8 , cusipName, MediumTerm Notes Series Due Nine Months 
+"National Rural Utilities Cooperative Finance Corp , cusip, 63743F2V7 , , Senior Unsecured Notes 
+"National Rural Utilities Cooperative Finance Corp , cusip, 63743F2U9 , , Senior Unsecured Notes 
+"Nano Labs Ltd , cusip, 6521737 , , Class Ordinary Shares  
+"OFS Credit Company Inc , cusip, 67825B100 , ,  
+"Sonnet BioTherapeutics Holdings Inc , cusip, 835699101 , , Sonnet BioTherapeutics Holdings Inc 
+ "company_name, "Trump Media Technology Group Corp , cusip, 37969380 , 37644380 , 37644380 , ,  , Commitment Shares , Placement Agent Shares ,{"company_name, "YA II PN LTD , cusip, 37644380 , ,  ,{"company_name, "Digital World Acquisition Corp , cusip, 750xxxxxx , , Convertible Promissory Notes  
+"VinFast Auto Ltd , cusip, 64041969 , 3321002 , 3672708 , , Ordinary Shares , Ordinary Share issuable upon exercise , Warrants 
+"VinFast Auto Ltd , cusip, 95273331 , , Ordinary Shares 
+"VinFast Auto Ltd , YA II PN Ltd , cusip, {"VinFast Auto Ltd, 50991A100 , 50991A200 , YA II PN Ltd, Y01234AB6 ,"cusip_names, {"VinFast Auto Ltd, VinFast Ordinary Shares , VinFast Convertible Debenture , YA II PN Ltd, YA II PN Ltd Ordinary Shares }
+"reAlpha Tech Corp , cusip, 00141839 , , CUSIP for reAlpha Tech Corp 
+"Beachbody Company Inc , cusip, 4866405 , 853222090 , , Class  , Warrants 
+"Beachbody Company Inc , cusip, 07330E103 , , Class  
+"CervoMed Inc , cusip, 00388A101 , ,  
+"Core Scientific Inc , cusip, 10795751 , 10735143 , 00140046 , 861243837 , 81927898 ,"Bitmain Technologies Delaware Limited , cusip, 60608  
+"Danimer Scientific Inc , cusip, 00139280 , 841924518 , , Class  , Convertible Senior Notes due 2026 
+"Franklin Templeton Digital Holdings Trust , Franklin Bitcoin ETF , cusip, 0001992870 , , Franklin Bitcoin ETF , Franklin Templeton Digital Holdings Trust 
+"BlackRock Funding Inc. , cusip, BLKF2027 , BLKF2035 , BLKF2055 , , Notes due 2027 , Notes due 2035 , Notes due 2055 ,"BlackRock Inc. , cusip, BLK2019 , BLK2030 , BLK2018 , , 2027 Notes , 2035 Notes , 2055 Notes  
+"Franklin Templeton Holdings Trust , Franklin Responsibly Sourced Gold ETF , cusips, [["0001858258"],"cusipNames, [["Franklin Responsibly Sourced Gold ETF"] 
+"Golub Capital Private Credit Fund , cusip, G123456789 , G123456790 , , Golub Capital Private Credit Fund Series A , Golub Capital Private Credit Fund Series B 
+"JPMorgan Chase Financial Company LLC , cusip, 48134X6R1 , , JPMorgan Chase Financial Company LLC Structured Investments Review Notes 
+"JPMorgan Chase Financial Company LLC , cusip, 48134X6R1 , , [ 
+"Montana Technologies Corporation , cusip, 21557612 , 56111235 , 11125000 , , Class  , Warrants , Private Placement Warrants ,"Power Digital Infrastructure Acquisition II Corp , cusip, 10608178 , 28750000 , , Class  , Class B   
+"Movella Holdings Inc , cusip, 23523776 , 00140074 , cusipNames, Movella Holdings Inc , Movella Holdings Inc 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 639400AA2 , cusipNames, MediumTerm Notes Series 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A , cusipNames, MediumTerm Notes Series Due Nine Months 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 333275151 , , MediumTerm Notes Series Due Nine Months  
+"BlackRock Funding Inc , BlackRock Inc , cusip, {"BlackRock Funding Inc, 32018C895 , 32018C879 , 32018C861 , BlackRock Inc, [ ,"cusipName, {"32018C895, "Notes due 2027 , 32018C879, "Notes due 2035 , 32018C861, "Notes due 2055"}}
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A , , N/A 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, N/A , cusipNames, MediumTerm Notes Series Due Nine Months 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusips, 333275151 , , MediumTerm Notes Series Due Nine Months 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 123456789"], // Placeholder for actual CUSIP number as it was missing in the report"cusip_names, MediumTerm Notes Series Due Nine Months 
+"NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION , cusip, 637430AA4 , , Medium-Term Notes Series Due Nine Months 
+"JP Morgan Multi Asset Index , cusip, 48124A112 , , JP Morgan Multi Asset Index 
+"JP Morgan Multi Asset Index , cusip, 270004 , 27000401 , cusip_name, Registration Statement Nos 333 270004 , Registration Statement Nos 333 270004 01 ate Jul 10 2024 
+ "name, "JP Morgan , cusip, 00165D100 , 46625H100 , , JP Morgan Chase Co. , JPMorgan Chase & Co. ,{"name, "Kronos SM Index , cusip, 1002629 , 11316T8G0 , , JP Morgan Kronos SM Index , Kronos SM Index  
+"JP Morgan , cusip, 270004 , 270004-01 , cusipNames, Registration Statement Nos 333 270004 , Registration Statement Nos 333 270004 01 ,"Kronos SM Index , cusip, 333000004" // Assuming this is related but not explicitly mentioned in the text provided.,"cusipNames, J P Morgan Kronos SM Index  
+"MerQube US Tech Vol Advantage Index , Invesco QQQ Trust SM , Nasdaq 100 Index , cusip, [["123456789 , 987654321"],
+"Equitable Financial Life Insurance Company , cusip, 863645 , , SCS PLUS 21New Biz Cat 800154 724 
+{"data, "MerQube US Tech Vol Advantage Index , cusip, N/A , , CUSIP numbers not explicitly provided ,"JP Morgan , cusip, N/A , , CUSIP numbers not explicitly provided ,"Invesco QQQ Trust SM Series 1 , cusip, N/A , , CUSIP numbers not explicitly provided  
+"JPMorgan Chase & Co , cusip, 46625H100 , , JPMorgan Chase & Co 
+"JP Morgan , cusips, JPC US3M , JPUSCA FB , , Cash Index , Alternatives 
+"JPMorgan Chase & Co , cusip, 46625H102 , , JPMorgan Chase & Co  
+"JP Morgan Efficiente® Plus DS 5 Index Net ER , cusip, JPUSCAFB , EFPLUS5D , cusip_name, JP Morgan Efficiente® Plus DS 5 Index Net ER , JP Morgan Cash Index USD 3 Month 
+"JP Morgan Total Return SM Index , cusips, 333270004 , 33327000401 , , Registration Statement No. 333 270004 , Registration Statement No. 333 270004 01  
+"JP Morgan Securities LLC , cusip, 6183 , 1831 , 4010 , 0110 , 4254 , 2522 , 4550 , 5620 , 4128 , 5300 , , JP Morgan Credit Index , JP Morgan ULC Volatility Index , JP Morgan Tactical Blend Index , JP Morgan Dollar Index ,"Invesco , cusip, 5128 , 5140 , 5160 , 5180 , 5200 , 5220 , , Invesco DB US Dollar Index Bullish Fund , Invesco DB US Dollar Index  
+"JP Morgan Tactical Blend , cusip, 4953 1885 , 4961 1905 , 4962 1954 , cusipNames, JP Morgan Tactical Blend Index , JP Morgan U Low Volatility Index , JP Morgan Core Bond SM Index ,"Invesco DB US Dollar Index Bullish Fund , cusip, 6183 1831 , cusipNames, Invesco DB US Dollar Index Bullish Fund  
+ "name, "JP Morgan Total Return SM Index , cusip, N/A", // No CUSIP number provided in the text."N/A" // No CUSIP number provided in the text.,"cusip_names, JP Morgan Total Return SM Index , Bloomberg Barclays US Aggregate Bond TR Index , Bloomberg Barclays Global Aggregate Bond Index TR Unhedged USD ,{"name, "Bloomberg Barclays US Aggregate Bond , cusip, N/A", // No CUSIP number provided in the text."N/A" // No CUSIP number provided in the text.,"cusip_names, Bloomberg Barclays US Aggregate Bond TR Index ,{"name, "Bloomberg Barclays Global Aggregate Bond , cusip, N/A", // No CUSIP number provided in the text."N/A" // No CUSIP number provided in the text.,"cusip_names, Bloomberg Barclays Global Aggregate Bond Index TR Unhedged USD  
+ "name, "MerQube US Small Cap Vol Advantage Index , cusips, [,"cusip_names, [ ,{"name, "JP Morgan Securities LLC , cusips, [,"cusip_names, [  
+"Equitable Financial Life Insurance Company America , cusip, 863835 , , SCS Income EFLIC 
+"MerQube , cusip, 28071A0603 , 28071A0606 , 27087A0607 , 27746A0614 , 32461A0621 , 32337A0628 , 23019A0501 , 28990A0503 , 28863A0510 , 35173A0517 , 36085A0524 , 31269A0401 , 21322A0405 , 17685A0412 , 19092A0419 , 23019A0426 
+"MerQube US Large Cap Vol Advantage Index , cusip, 123456789 , , CUSIP for MerQube US Large Cap Vol Advantage Index 
+"MerQube US Small Cap Vol Advantage Index , cusip, 123456789 , 987654321"], cusip_names, CUSIP number for MerQube US Small Cap Vol Advantage Index , Another CUSIP number for MerQube US Small Cap Vol Advantage Index 
+ "name, "JPMorgan Chase & Co , cusips, 009605053 , 028479038 , , Domestic 30 70 Portfolio ER , Global 30 70 Portfolio ER  
+"JPMorgan Chase & Co , cusip, 46625H100 , cusipNames,   
+"JPMorgan Chase & Co , cusip, 48124A104 , 48124A103 , cusipNames, JPMorgan Chase & Co  , JPMorgan Chase & Co J.P. Morgan E-Commerce Index 
+"JPMorgan Chase & Co , cusip, 46625H100 , , JPMorgan Chase & Co.  
