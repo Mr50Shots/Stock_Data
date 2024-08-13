@@ -1,287 +1,1472 @@
-Unformated CUSIP Data Needs Cleanup
- 1st FRANKLIN FINANCIAL CORPORATION VARIABLE RATE SUBORDINATED DEBENTURES, 1FFC
- PARKERVISION INC, 44461A
- PARKERVISION INC, 16809295 
- PARKERVISION INC, 16638353 
- PARKERVISION INC","CUSIP,  "44461A 
- Toronto-Dominion Bank, 89115GCH0",  89115GCH0 
- Equitable Financial Life Insurance Company America","SCS Income",  863835 
- UBS AG","Nasdaq100® Technology Sector IndexSM","Russell 2000® Index","Energy Select Sector SPDR® Fund, 90307D2B7","1122497","2051754","8936
- Alphabet Inc","Lyft Inc","Roku Inc","UBS AG, 90307D3H3","US90307D3H37
- XORTX Therapeutics Inc, 371322",  371322 
- "XORTX THERAPEUTICS INC",", 555555 ,  555555 
- Zapata Computing Holdings Inc","ZPTA","ZPTAW",  00141218 
- Zapata Computing Holdings Inc, 15850336",  15850336 
- reAlpha Tech Corp","Common Stock, 00141839","Common Stock, 863425507",  00141839, 863425507 
- AG TWIN BROOK CAPITAL INCOME FUND, 37706056",  37706056 
- Banzai International Inc","CUSIP 00139826",  00139826 
- Banzai International Inc, 853118980",  853118980 
- Equitable Financial Life Insurance Company America","Equitable Financial Life Insurance Company",  770821 
- Biodexa Pharmaceuticals PLC, 492400",  492400 
- Biodexa Pharmaceuticals PLC","CUSIP 8203200",  8203200 
- BIODEXA PHARMACEUTICALS PLC","115102400",  115102400 
- Biodexa Pharmaceuticals PLC","CUSIP 697614",  697614 
- BIODEXA PHARMACEUTICALS PLC","Biodexa Pharmaceuticals PLC",  119202320 
- BIODEXA PHARMACEUTICALS PLC, 2486270400",  2486270400 
- Brand Engagement Network Inc","Brand Engagement Network Inc","Brand Engagement Network Inc",  46752838 
- Calamos Global Dynamic Income Fund, 1396277",  1396277 
- CAPTIVISION INC","CAPTIVISION INC Ordinary Shares","CAPTIVISION INC Warrants","New Circle Principal Investments LLC, 24204341","38200001","11950000
- COHEN STEERS INCOME OPPORTUNITIES REIT INC, 19249W108",  19249W108 
- Envoy Medical Inc","Anzu Special Acquisition Corp I","Meteora FPA, 18041060","3913043","13418923","3874394","2173913","2500000","1000000","869565
- Danimer Scientific Inc","BNFAAO",  32435961 
- Great Elm Capital Corp","First Brands Inc","Great Elm Specialty Finance LLC","Prosper Peak Holdings LLC","Great Elm Strategic Partnership I LLC","Greenfire Resources Ltd","Blackstone Secured Lending","Harvey Gulf Holdings LLC","Lummus Technology Holdings, 3169363"
- High Income Securities Fund","High Income Securities Fund the “Fund”",  17530463 
- Nano Labs Ltd", 6521737 Class Ordinary Shares",  6521737 
- Owens Corning", 350 Senior Notes due 2030", Original Notes", Exchange Notes",  373155000 
- Smith Micro Software Inc","Common Stock",  83169T100 
- SABLE OFFSHORE CORP","Sable Offshore Corp Common Stock","Sable Offshore Corp Warrants",  00140111 
- 1st FRANKLIN FINANCIAL CORPORATION","VARIABLE RATE SUBORDINATED DEBENTURES",  1FFC 
- 1st FRANKLIN FINANCIAL CORPORATION","SENIOR DEMAND NOTES",  not provided 
- Envoy Medical Inc","Envoy Medical® Acclaim® Cochlear Implant",  18041060 
- Alzamend Neuro Inc", Orchid Finance LLC",  None available 
- Bank Montreal","BMO Capital Markets Corp","Senior Medium-Term Notes Series",  06376AZL7 
- Fidelity MultiStrategy Credit Fund","Fidelity Private Credit Fund, 199101451
- GCT Semiconductor Holding Inc","CUSIP",  00141013 
- GDEV INC","ORDINARY SHARES","WARRANTS",  74531665 
- JP Morgan Kronos SM Index","SP 500",  Not provided in the report 
- Equitable Financial Life Insurance Company","Equitable Financial Life Insurance Company America",  770821 
- JP Morgan Kronos SM Index","SP 500 ® Price Return Index",  Not specified in the provided report 
- JP Morgan Efficiente® Plus DS 5 Index Net ER","Cash Index JPUSCA FB","James Paul Financial Index, JPC US3 M","JPUSCA FB
- SP® Global 100 PR 5 Daily Risk Control 05 Deduction Index", JPMorgan Chase & Co",  None 
- JP Morgan Efficiente® Plus DS 5 Index Net ER","Domestic 30 70 Portfolio ER","Global 30 70 Portfolio ER",  EFPLUS5D 
- JP Morgan Total Return SM Index","US Treasury Bonds","Preferred Stock PFF","Floating Rate FLOT","High Yield Corporate HYG","Emerging Markets EMB","Inflation Protected TIP","Agency MBS MBB","10 Year Credit IGLB","Intermed Credit IGIB","1 – 3 Year Credit IGSB","20 Year Treasuries TLT","7 – 10 Year Treasuries IEF","1 – 3 Year Treasuries SHY, 333270004","333270004-01
- JP Morgan Tactical Blend Index","Invesco DB US Dollar Index Bullish Fund","JP Morgan Credit Bond Index","JP Morgan U.S. Low Volatility Index, 6183","2045","4180","5141
- JP Morgan Tactical Blend Index","JP Morgan U Low Volatility Index Total Return","JP Morgan Core Bond SM Index","Invesco DB US Dollar Index Bullish Fund, 4953-1885","4961-1905","4962-1954
- FS Credit Real Estate Income Trust Inc","Transaction Price Class 250935","Transaction Price Class 248557","Transaction Price Class 249121","Transaction Price Class 249554","Transaction Price Class 241899","Transaction Price Class F 253414","Transaction Price Class Y 241546, 250935","248557","249121","249554","241899","253414","241546
- MerQube US Small Cap Vol Advantage Index","JP Morgan Securities LLC",  not provided 
- MerQube US Large Cap Vol Advantage Index","SP 500 Index",  28071 0603 
- MerQube US Large Cap Vol Advantage Index","Registration Statement Nos 333 270004 333 270004 01",  270004 
- MerQube US Small Cap Vol Advantage Index",  18689G060 
- SP 500® Daily Risk Control 5 Index","Domestic 30 70 Portfolio ER","Global 30 70 Portfolio ER","JPMorgan Chase Co",   
- JPMorgan Chase & Co","SP 500® Daily Risk Control 5 Index, JPMorgan Chase & Co: 46625H100","SP 500® Daily Risk Control 5 Index: 78467X109
- JPMorgan Chase & Co","SP 500® Daily Risk Control 10 Index","Domestic 70 30 Portfolio ER","Global 70 30 Portfolio ER",  not present 
- JPMorgan Chase & Co","SP 500® Daily Risk Control 10 Index",   
- Kazia Therapeutics Limited","Kazia Therapeutics",  4755556 
- Hines Global Income Trust Inc","HINES GLOBAL INCOME TRUST INC",  43300C400
- Kazia Therapeutics Limited, 48668A103",  48668A103 
- Longeveron Inc","LomecelB™",  none 
- Microbot Medical Inc",  594900208 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION","CUSTIP: 333275151",  333275151 
- Nikola Corporation","CUSIP 249843711",  249843711 
- Nikola Corporation, 53390000",  53390000 
- NUBURU INC, 00139489",  00139489 
- NUBURU INC","Common Stock","Series Preferred Stock",  00139489 
- SANTECH HOLDINGS LIMITED, 80380B108",  80380B108 
- 1st FRANKLIN FINANCIAL CORPORATION","1FFC",   
- Pineapple Financial Inc","13910991",  13910991 
- SMX SECURITY MATTERS PUBLIC LIMITED COMPANY","Canterbury Group Ltd",  5239938 
- SMX SECURITY MATTERS PUBLIC LIMITED COMPANY","Canterbury Group Ltd",  00022 
- SMX SECURITY MATTERS PUBLIC LIMITED COMPANY","Canterbury Group Ltd, 657203","8653846
- SMX SECURITY MATTERS PUBLIC LIMITED COMPANY","Generaing Alpha Ltd","Canterbury Group Ltd, 9482110","00022","8653846
- SMX SECURITY MATTERS PUBLIC LIMITED COMPANY","SMX Security Matters Public Limited Company",  9482110 
- SMX SECURITY MATTERS PUBLIC LIMITED COMPANY","Generating Alpha Ltd","Canterbury Group Ltd, 9482110","8653846
- StepStone Private Infrastructure Fund, 85922K106",  85922K106 
- Tenon Medical Inc","Lincoln Park Capital Fund LLC, 88267X103"
- Invesco Real Estate Income Trust Inc","Class 276190","Class 276725","Class 276417","Class 277578","Class E 292145, 276190","276725","276417","277578","292145
- Wheeler Real Estate Investment Trust Inc, 00135713",  00135713 
- White River Energy Corp","White River International PLC",  67651420 
- CytoDyn Inc, 141019099",  141019099 
- CytoDyn Inc, 74903789",  74903789 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","SP Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER",  48135NT22 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","SP® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER",  48135NT22 
- Microbot Medical Inc","MBOT",  1769966 
- Microbot Medical Inc","LIBERTY® Endovascular Robotic Surgical System",  1005965 
- PGIM PRIVATE REAL ESTATE FUND INC","PGIM Private Real Estate Fund Inc","Recent Asset Acquisition",   
- Microbot Medical Inc","LIBERTY® Endovascular Robotic Surgical System",  3211671 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION, 333275151",  333275151 
- Patria Investments Limited","Patria Investments Limited CUSIP",  1317031 
- Q32 Bio Inc, 424B3",  424B3 
- Vista Outdoor Inc","Revelyst Inc","CSG Elevate II Inc","CSG Elevate III Inc","CZECHOSLOVAK GROUP, 92835R104", // Assuming CUSIP for Vista Outdoor Inc"761230100", // Assuming CUSIP for Revelyst Inc"12624C100", // Assuming CUSIP for CSG Elevate II Inc"12624C208", // Assuming CUSIP for CSG Elevate III Inc"15798E103"// Assuming CUSIP for CZECHOSLOVAK GROUP]}
- Wheeler Real Estate Investment Trust Inc","Series Preferred Stock","Series B Convertible Preferred Stock, 20704217","2500","1000","2500","20000
- Wheeler Real Estate Investment Trust Inc, 00135713",  00135713 
- AerCap Holdings NV","AerCap Ireland Capital Designated Activity Company","AerCap Global Aviation Trust","FixedRate Reset Junior Subordinated Notes due 2055",  unknown 
- Rise Gold Corp, 26267468",  26267468 
- AerCap Ireland Capital Designated Activity Company","AerCap Global Aviation Trust","AerCap Holdings NV","Fixed-Rate Reset Junior Subordinated Notes due 2055",  006865207 
- AerCap Holdings NV","AerCap Ireland Capital Designated Activity Company","AerCap Global Aviation Trust","AerCap FixedRate Reset Junior Subordinated Notes due 2055",  None specified 
- AerCap Ireland Capital Designated Activity Company","AerCap Global Aviation Trust","AerCap Holdings NV",  015033208 
- AerCap Ireland Capital Designated Activity Company","AerCap Global Aviation Trust","AerCap Holdings NV","AerCap Ireland Capital Designated Activity Company","AerCap Global Aviation Trust",  P1398F201 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION, 333275151",  333275151 
- OXFORD PARK INCOME FUND INC, Not provided",  Not provided 
- QT Imaging Holdings Inc","GigCapital5 Inc","GigAcquisitions5 LLC","YA II PN LTD","Yorkville Advisors Global LP","ICR LLC","Sea Otter Trading LLC","NXC Imaging Inc","Canon Medical Systems USA Inc",  17711129 
- Roma Green Finance Limited, US0001","Roma Green Finance Limited, US0351","Top Elect Group Limited, US5074","Roma Risk Advisory Limited, US1111","Roma Advisory Pte Ltd, US2222, US0001","US0351","US5074","US1111","US2222
- Tenon Medical Inc","Series Preferred Stock","Series B Convertible Preferred Stock, 883834104","883834104","883834104
- JP MORGAN REAL ESTATE INCOME TRUST INC","CUSIP",  not provided 
- Trump Media Technology Group Corp","Common Stock","Public Warrants",  00140779 
- UBS AG, 90307D2D3",  90307D2D3 
- Vintage Wine Estates Inc","VINTAGE WINE ESTATES INC",  00140016 
- Vintage Wine Estates Inc, 27633275",  27633275 
- Yieldstreet Alternative Income Fund Inc, 1762229",  1762229 
- Bank Montreal","BMO Capital Markets Corp","BMO Capital Markets",  06376AQR4 
- Bank Nova Scotia","Market Linked Securities—AutoCallable Contingent Coupon Contingent Downside Principal Risk Securities Linked Lowest Performing Energy Select Sector SPDR® Fund Technology Select Sector SPDR® Fund Health Care Select Sector SPDR® Fund due June 29 2027","Energy Select Sector SPDR® Fund","Technology Select Sector SPDR® Fund","Health Care Select Sector SPDR® Fund",  06417YY86 
- Bank Nova Scotia","CUSIP",  06417YY78 
- Beneficient","Beneficient Class Common Stock","Beneficient Series Convertible Preferred Stock","Beneficient Private Public Warrants, 00141715","721573705
- Beneficient","BENF",  00141715 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Dynamic Blend ℠ Index","JP Morgan US Large Cap Equities Futures Index","JP Morgan 2Y US Treasury Futures Index",  48135N6B7 
- Beneficient","Beneficient Underlying Private Public Warrants","Beneficient Nevada corporation",  00141715 
- Beneficient, 00141715, 721573705, 00141715","721573705
- Beneficient","Beneficient (CUSIP: 00141715)","Beneficient (CUSIP: 721573705), 00141715","721573705
- Estrella Immunopharma Inc","Estrella Immunopharma Inc CUSIP","White Lion Capital LLC",  00140608 
- Gaia Inc","2108334",  2108334 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index",  48135NW93 
- Invesco QQQ Trust SM Series 1","JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","MerQube US Tech Vol Advantage Index",  48135NY83 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index","CUSIP 48135NY34",  48135NY34 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Dynamic Blend ℠ Index","JPMorgan 2Y US Treasury Futures Index","JPMorgan US Large Cap Equities Futures Index",  48135N6B7 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co.","JP Morgan Kronos SM Index","CUSIP 48135NL53",  48135NL53 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index","CUSIP 48135NX27",  48135NX27 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","SP® Global 100 PR 5 Daily Risk Control 05 Deduction Index","CUSIP 48135NK96",  48135NK96 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index",  48135NW85 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","JP Morgan Kronos SM Index","CUSIP 48135NL79",  48135NL79 
- JPMorgan Chase Financial Company LLC","Invesco QQQ Trust SM Series 1","JPMorgan Chase & Co","MerQube US Tech Vol Advantage Index",  48135NW77 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","MerQube US Large Cap Vol Advantage Index","CUSIP 48135NT89",  48135NT89 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co.","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index",  48135NY75 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JPMorgan Structured Investments","JP Morgan Multi Asset Index",  48135NK70 
- Invesco QQQ Trust SM Series 1","JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","MerQube US Tech Vol Advantage Index",  48135NW93 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION, 333275151",  333275151 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co.","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index",  48135NY83 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index","JPMorgan Structured Investments",  48135NY34 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Kronos SM Index","CUSIP 48135NL53",  48135NL53 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co.","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index",  48135NX27 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","CUSIP 48135NK96",  48135NK96 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index","E-Mini Nasdaq 100 futures",  48135NW85 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Kronos SM Index","CUSIP 48135NL79",  48135NL79 
- JPMorgan Chase Financial Company LLC","MerQube US Tech Vol Advantage Index","Invesco QQQ Trust SM Series 1",  48135NW77 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","MerQube US Large Cap Vol Advantage Index","CUSIP 48135NT89",  48135NT89 
- Invesco QQQ Trust SM Series 1","JPMorgan Chase Financial Company LLC","JPMorgan Chase Co",  48135NY75 
- NUVEEN GLOBAL CITIES REIT INC","VGNNREIT0724P",  VGNNREIT0724P 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Multi Asset Index","cusip 48135NK70",  48135NK70 
- KUMYANG CO LTD","CUSIP AMERICAN DEPOSITARY RECEIPT",  AMERICAN DEPOSITARY RECEIPT 
- Moolec Science SA, 00141586",  00141586 
- Moolec Science SA","Moolec Science SA",  35818285 
- Purple Biotech Ltd","American Depositary Shares",  3888890 
- Republic Chile","Notes due 2024",  R99469339 
- RREEF PROPERTY TRUST INC, 333268995",  333268995 
- Tenon Medical Inc, : 88041Y101",  88041Y101 
- Amazon.com Inc","CUSIP 90307DC26",  90307DC26 
- VIREO GROWTH INC","GOODNESS GROWTH HOLDINGS INC","Vireo Growth Inc","Vireo Health International Inc","DOMINION ENERGY INC","Subordinate Voting Shares",  92767B105 
- WESTERN ASSET MORTGAGE OPPORTUNITY FUND INC, 96016A104",  96016A104 
- YIELDSTREET ALTERNATIVE INCOME FUND INC",  YIELDSTREET ALTERNATIVE INCOME FUND INC 
- Allurion Technologies Inc","Allurion Technologies Inc","Allurion Technologies Inc",  9482468 
- Allurion Technologies Inc, 56548268","CUSIP Registration No 333274564, 56548268","333280466
- ANGEL OAK STRATEGIC CREDIT FUND","JP Morgan Securities LLC","Class C","Class",  333220480 
- Apollo Realty Income Solutions Inc, 333264456",  333264456 
- Bank Montreal","BMO Capital Markets Corp","BMO Capital Markets",  06376APU8 
- CNL Strategic Capital LLC","Sill Public Adjusters","Seltser Goldstein Public Insurance Adjusters"],"cusip": null}
- Critical Metals Corp, 00141973",  00141973 
- Eyenovia Inc","CUSIP 9708839","CUSIP 4870130","CUSIP 4838709, 9708839","4870130","4838709
- Unicycive Therapeutics Inc","CUSIP Number: 90900J 106",  90900J106 
- EVE HOLDING INC","Embraer SA","Zanite Acquisition Corp","United Airlines Ventures Ltd","Embraer Aircraft Holding Inc",  319264425 
- Hagerty Inc","Public Warrants","Private Placement Warrants","Underwriter Warrants","OTM Warrants","PIPE Warrants, 5749989","257500","28750","1300000","12147300
- John Hancock Financial Opportunities Fund","John Hancock Financial Opportunities Fund Common Shares",  47805E901 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","MerQube US Large Cap Vol Advantage Index","CUSIP 48135NY42",  48135NY42 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index","CUSIP 48135NX92",  48135NX92 
- Invesco QQQ Trust SM Series 1","JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","MerQube US Tech Vol Advantage Index",  48135NX76 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Multi Asset Index","JPMorgan Chase & Co (Guarantor)",  48135NK88 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co.","JP Morgan Kronos SM Index","CUSIP 48135NL61",  48135NL61 
- JPMorgan Chase Financial Company LLC","JP Morgan Multi Asset Index","JPMorgan Chase & Co",  48135NK62 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","SP ® Global 100 PR 5 Daily Risk Control 05 Deduction Index",  48135NL20 
- UpHealth Inc","UpHealth Inc CUSIP",  00138924 
- Bank Montreal","MicroSectors™ Energy 3X Leveraged ETNs due January 29 2043","CUSIP Number: 06368L304",  06368L304 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","MerQube US Tech Vol Advantage Index","Invesco QQQ Trust SM Series 1",  48135NP26 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Kronos SM Index","CUSIP",  48135NL46 
- JPMorgan Chase Financial Company LLC", JPMorgan Chase & Co", JP Morgan Dynamic Blend ℠ Index",  48135N7M2 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co.","MerQube US Large Cap Vol Advantage Index","CUSIP 48135NY26",  48135NY26 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","CUSIP 48135NY67",  48135NY67 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","JP Morgan Structured Investments","JP Morgan Total Return Index","CUSIP 48129KDE7",  48129KDE7 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Multi Asset Index","CUSIP 48135NK54",  48135NK54 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co.","CUSIP 48135NL38",  48135NL38 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","MerQube US Large Cap Vol Advantage Index","CUSIP 48135NY42",  48135NY42 
- Invesco QQQ Trust SM Series 1","JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co",  48135NX92 
- Zapp Electric Vehicles Group Limited","YA II PN Ltd",  1436339 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","Invesco QQQ Trust SM Series 1","MerQube US Tech Vol Advantage Index","CUSIP 48135NX76",  48135NX76 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Multi Asset Index",  48135NK88 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","JP Morgan Kronos SM Index","CUSIP 48135NL61",  48135NL61 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Multi Asset Index","CUSIP",  48135NK62 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","SP® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER","SP® Global 100 Index",  48135NL20 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","MerQube US Tech Vol Advantage Index","Invesco QQQ Trust SM Series 1",  48135NP26 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Kronos SM Index","CUSIP 48135NL46",  48135NL46 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","CUSIP 48135N7M2",  48135N7M2 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","CUSIP 48135NY26",  48135NY26 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase Co","MerQube US Large Cap Vol Advantage Index","CUSIP 48135NY67",  48135NY67 
- Bitcoin Depot Inc, 83747027",  83747027 
- JPMorgan Chase Financial Company LLC", JPMorgan Chase & Co,  48129KDE7",  48129KDE7 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Multi Asset Index","CUSIP 48135NK54",  48135NK54 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","JP Morgan Kronos SM Index",  48135NL38 
- JPMorgan Private Markets Fund","JP Morgan Investment Management Inc",   
- NUBURU INC","Common Stock",  67021W301 
- NUBURU INC","CUSIP 67021W301",  67021W301 
- PGIM Credit Income Fund","Class Z Shares","Class A Shares","Class C Shares",  333274044 
- PROSPER FUNDING LLC","PROSPER MARKETPLACE INC","Borrower Payment Dependent Notes, 333257739","33325773901
- PROSPER FUNDING LLC","PROSPER MARKETPLACE INC","PMI Management Rights, 333257739","33325773901
- Corebridge Financial Inc","6050 Senior Notes due 2033",  21871XAQ2 
- RiverSource® Structured Solutions 2SM annuity","PRO911912B01",  PRO911912B01 
- RiverSource Life Insurance Company","RiverSource® Structured SolutionsSM annuity","Prospectus",  910312A01 
- Royal Bank Canada","Advent Convertible Income Fund","BlackRock Enhanced Equity Dividend Trust","BlackRock MultiSector Income Trust","BlackRock Science Technology Trust","BlackRock Enhanced Capital Income Fund Inc","Calamos Strategic Total Return Fund","Gabelli Dividend Income Trust","John Hancock TaxAdvantaged Dividend Income Fund","PGIM High Yield Bond Fund Inc","Virtus Equity Convertible Income Fund","Cohen Steers REIT Preferred Income Fund Inc","Source Capital Inc","SRH Total Return Fund Inc","Columbia Seligman Premium Technology Growth Fund Inc","Tekla Healthcare Opportunities Fund",  78015QKG5 
- Royal Bank Canada","Advent Convertible Income Fund","BlackRock Enhanced Equity Dividend Trust","BlackRock MultiSector Income Trust","BlackRock Science Technology Trust","BlackRock Enhanced Capital Income Fund Inc","Calamos Strategic Total Return Fund","Gabelli Dividend Income Trust","John Hancock Tax-Advantaged Dividend Income Fund","PGIM High Yield Bond Fund Inc","Virtus Equity Convertible Income Fund","Cohen Steers REIT Preferred Income Fund Inc","Source Capital Inc","SRH Total Return Fund Inc","Columbia Seligman Premium Technology Growth Fund Inc","Tekla Healthcare Opportunities Fund",  78015QKF7 
- TRISALUS LIFE SCIENCES INC","Registration No 333274292","Registration No 333 279691, 00139813","36772040","853009869
- TriSalus Life Sciences Inc","Warrants","Common Stock, 00139813","333276070","333279691
- TriSalus Life Sciences Inc", Warrant Amendment", Warrants",  00139813 
- UBS AG","United States Natural Gas Fund LP, 90307DG48",  90307DG48 
- VinFast Auto Ltd","Convertible Debenture",  64041969 
- VinFast Auto Ltd","YA II PN Ltd, 95273331","VFS1","VFS2
- VinFast Auto Ltd","YA II PN Ltd, VFS1","VFS2
- Wheeler Real Estate Investment Trust Inc, 00135713, 452681082",  00135713, 452681082 
- EQT Exeter Real Estate Income Trust Inc, 29452C104",  29452C104 
- Gold Royalty Corp","OMF Fund III Cr Ltd","Adriatic Metals plc",  2906977 
- Hepion Pharmaceuticals Inc, 1470590",  1470590 
- IPC Alternative Real Estate Income Trust Inc","IPC Alternative Real Estate Income Trust Inc - Class 247737","IPC Alternative Real Estate Income Trust Inc - Class 248908","IPC Alternative Real Estate Income Trust Inc - Class 248908","IPC Alternative Real Estate Income Trust Inc - Class 248908, 247737","248908","248908","248908","248908
- Lenz Therapeutics,  00140532",  00140532 
- Lexeo Therapeutics Inc, 00141855",  00141855 
- Timberline Resources Corporation","McEwen Mining Inc","Lookout Merger Sub Inc, 88532J106",  88532J106 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION","CUSIP",  333275151 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION","MediumTerm Notes Series",  333275151 
- National Rural Utilities Cooperative Finance Corp","CUSIP Number 63743F2V7",  63743F2V7 
- National Rural Utilities Cooperative Finance Corp","CUSIP Number: 63743F2U9",  63743F2U9 
- Nano Labs Ltd","CUSIP 6521737",  6521737 
- OFS Credit Company Inc","OFS Credit Company Inc","OFS Credit Company Inc",   
- Sonnet BioTherapeutics Holdings Inc, 835696107",  835696107 
- Trump Media Technology Group Corp","YA II PN LTD","Yorkville, 37969380","37644380","37644380
- VinFast Auto Ltd","64041969","60720967","3321002","3672708","VFS","VFSWW",  64041969 
- VinFast Auto Ltd","Yorkville",  95273331 
- VinFast Auto Ltd","YA II PN Ltd",  5100000 
- reAlpha Tech Corp", AiChat Pte Ltd", AiChat10X Pte Ltd", AIRE",  00141839 
- Beachbody Company Inc, 4866405",  4866405 
- Beachbody Company Inc","Class Common Stock",  00139735 
- CervoMed Inc","CRVO",  00137942 
- Core Scientific Inc","Bitmain Technologies Delaware Limited","Tospring Technology Limited, 10795751","10735143","60608
- Danimer Scientific Inc, 00139280",  00139280 
- FRANKLIN TEMPLETON DIGITAL HOLDINGS TRUST","FRANKLIN BITCOIN ETF",  333274474 
- BlackRock Funding Inc","BlackRock Inc","Notes due 2027","Notes due 2035","Notes due 2055",  XXXXXXXX 
- Franklin Templeton Holdings Trust","Franklin Responsibly Sourced Gold ETF",  333264468 
- GOLUB CAPITAL PRIVATE CREDIT FUND","CUSIP",  Not Provided 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","CUSIP 48134X6R1",  48134X6R1 
- JPMorgan Chase Financial Company LLC","JPMorgan Chase & Co","CUSIP 48134X6R1",  48134X6R1 
- Montana Technologies Corporation","Power Digital Infrastructure Acquisition II Corp, 21557612","56111235
- Movella Holdings Inc","Pathfinder Acquisition LLC","FP Credit Partners II LP","FP Credit Partners Phoenix II LP","Movella Inc",  23523776 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION, 333275151",  333275151 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION",   
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION, 333275151",  333275151 
- BlackRock Funding Inc","BlackRock Inc","2027 notes","2035 notes","2055 notes, 333278583","33327858301"
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION, 333275151",  333275151 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION, 333275151",  333275151 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION","MediumTerm Notes Series Due Nine Months",  Not provided 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION","CUSIP",  333275151 
- NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION, 333275151",  333275151 
- JP Morgan Multi Asset Index","Domestic 30-70 Portfolio ER","Global 30-70 Portfolio ER",  Not provided in the report 
- JP Morgan Kronos SM Index","SP 500® Price Return Index",  JUL 2024 
- MerQube US Tech Vol Advantage Index","Invesco QQQ Trust SM","E Mini Nasdaq 100 Futures",  CUSIP information not found in the provided text. 
- Equitable Financial Life Insurance Company","Equitable Financial Life Insurance Company America","SCS PLUS 21",  863645 
- JPMorgan Chase & Co","SP® Global 100 PR 5 Daily Risk Control 05 Deduction Index",  333270004 
- JP Morgan Efficiente® Plus DS 5 Index Net ER","Cash Index JPUSCA FB Alternatives","Gold I U Cmd DB C MLPs AMLP","Real Estate VNQ Gold Miner GDX","EM Bond EMB Pref Share PFF","Lev Loans BKLN HY Corp H","HY Corp JNK IG Corps VCSH","TIP TIP IG Corp LQD","7 – 10Y real IEF","20Y real T L Intl Small SCZ","US Small VB EM Mkts VWE","eventually VEA US Large VOO","JPC US3 M Alternatives, 333270004","33327000401
- JP Morgan Efficiente® Plus DS 5 Index Net ER","Domestic 30 70 Portfolio ER","Global 30 70 Portfolio ER",  Not provided in the report 
- JP Morgan Tactical Blend Index","Invesco DB US Dollar Index Bullish Fund","JP Morgan Credit Index","JP Morgan Ultra Low Volatility Index, 6183","1831","4039","2146","3049
- JP Morgan Tactical Blend Index","JP Morgan U Low Volatility Index","JP Morgan Core Bond SM Index","Invesco DB US Dollar Index Bullish Fund",  4953-1885 
- JP Morgan Total Return SM Index","Bloomberg Barclays US Aggregate Bond TR Index","Bloomberg Barclays Global Aggregate Bond Index TR Unhedged USD, JPUSTRI"
- Equitable Financial Life Insurance Company America","Equitable Financial Life Insurance Company","SCS Income",  863835 
- MerQube US Large Cap Vol Advantage Index","SP 500 Index",  28071 0603 
- MerQube US Small Cap Vol Advantage Index","Russell 2000",  18689 0603 
- JPMorgan Chase & Co, , 46625H100
+.	 48133P6G3	 Worst S&P 500 & Nasdaq 100 Index	
+.	 48133P6X6	 Worst S&P 500 & Nasdaq 100 Index	
+.	 48133PJ53	 Worst S&P 500 & Nasdaq 100 Index	
+.	 48133PJ79	 Worst S&P 500 & Nasdaq 100 Index	
+.	 48133PJ95	 Worst S&P 500 & Nasdaq 100 Index	
+.	 48133PK44	 Worst S&P 500 & Nasdaq 100 Index	
+.	 48133PK69	 Worst S&P 500 & Nasdaq 100 Index	
+.	 48133PK85	 Worst S&P 500 & Nasdaq 100 Index	
+21Shares Core Ethereum ETF	333274364	 Prospectus registration and offering.	
+Acasti Pharma Inc	 00430K202	 Nasdaq Stock Market LLC Common Shares	
+Acrisure LLC	 00693AAE7	 MQUSSVA Auto Callable Contingent Interest Notes	
+Acrisure LLC	 108581AE3	 MQUSSVA Auto Callable Contingent Interest Notes	
+AG Twin Brook Capital Income Fund	37706056	 Prospectus	
+AIP Alternative Lending Fund P	570924301	 Recommencement Offering	
+Allianz Life Insurance Company of North America	333264349	 Variable Annuity Issued	
+Allurion Technologies Inc	922182207	 Common Stock	
+Allurion Technologies Inc	922182207	 Warrants	
+Allurion Technologies Inc	922182207	 Common stock	
+Allurion Technologies Inc	922182207	 Common Stock	
+ALLURION TECHNOLOGIES INC	922182207	 CUSIP No	
+ALLURION TECHNOLOGIES INC	 333-276131	 CUSIP No	
+ALLURION TECHNOLOGIES INC	 333-280466	 CUSIP No	
+Allurion Technologies Inc.	141767	 Common Stock	
+Allurion Technologies Inc.	9482468	 Common Stock	
+Allurion Technologies Inc.	922182207	 Warrants to purchase	
+Alphabet Inc	 90307D3H3	 Trigger Autocallable Contingent Yield Notes	
+Amazon.com Inc	 90307DC26	 UBS AG Trigger Autocallable Contingent Yield Notes	
+APOLLO DEBT SOLUTIONS BDC	 03767Q100	 CUSIP No. 333-278477	
+APOLLO DEBT SOLUTIONS BDC	 03767Q109	 CUSIP No. 333-258155	
+ARCA biopharma Inc.	36855489	 Common Stock	
+Associations Finance Inc	 046005AB1	 MQUSSVA Auto Callable Contingent Interest Notes	
+Athenahealth Group Inc	 04689WAE6	 MQUSSVA Auto Callable Contingent Interest Notes	
+Atlantic International Corp	333280653	 Registration No. 333280653 Filed	
+Azalea TopCo Inc	 180599DZ5	 MQUSSVA Auto Callable Contingent Interest Notes	
+Bank Nova Scotia	 06417YY78	 Market Linked Securities—Upside Participation Cap Contingent Absolute Return Fixed Percentage Buffered Downside Principal Risk Securities Linked SP 500® Index due December 31 2026	
+Bank Nova Scotia	 06417YY86	 Market Linked Securities—AutoCallable Contingent Coupon Contingent Downside Principal Risk Securities Linked Lowest Performing Energy Select Sector SPDR® Fund Technology Select Sector SPDR® Fund Health Care Select Sector SPDR® Fund due June 29 2027	
+Bank of Montreal	 06368L304	 MicroSectorsTM Energy 3X Leveraged Exchange Traded Notes	
+Bank of Montreal	 06368L304	 MicroSectors 3X Leveraged Exchange Traded Notes due January 29 2043	
+Bank of Montreal	 06368L304	 Issued under Series A	
+Bank of Montreal	 06376APU8	 Warrants to purchase	
+Bank of Montreal	 06376AQR4	 Senior Medium-Term Notes Series I Market Linked Notes due July 02 2026 Linked to the S&P 500® Index	
+Bank of Montreal	 06376AZL7	 Senior Medium-Term Notes	
+Bank of Nova Scotia	 06417Y5F2	 Current Report	
+Bank of Nova Scotia	 06417Y5F2	 Autocallable Contingent Coupon Buffer Notes - Memory Coupon Linked to the Common Stock of NVIDIA Corporation Due January 29 2025	
+Bank of Nova Scotia	 06417Y5V7	 Autocallable Contingent Coupon Buffer Notes Memory Coupon	
+Bank of Nova Scotia	 06418K702	 Bear Accelerated Return Notes® Linked to Nasdaq-100 Index®	
+Bank of Nova Scotia	 06418LBY1	 Capped Buffered Participation Notes Linked to the S&P 500® Index Due May 3 2029	
+Banzai International Inc	139826	 Securities Exchange Act Registration	
+Banzai International Inc	139826	 CUSIP # for Banzai International Inc.	
+Banzai International Inc	853118980	 CUSIP # for Banzai International Inc.	
+Banzai International Inc	 333-278871	 Securities Exchange Commission Registration	
+Beachbody Company Inc	139735	 CUSIP number	
+Beachbody Company Inc	139735	 Form 10-Q	
+Beachbody Company Inc	853222090	 IRS Employer Identification No.	
+Beachbody Company Inc.	853222090	 Quarterly Report Form 10-Q (Identified in section 'Business Description')	
+Beneficent	468562	 Class Common Stock	
+Beneficent	91240875	 Class Common Stock	
+Beneficient	141715	 Common Stock	
+Beneficient	721573705	 Warrants	
+Beneficient	721573705	 Shares Class common stock	
+Better Home Finance Holding Company	 08774B508	 New CUSIP for Class Common Stock after Reverse Stock Split	
+Biodexa Pharmaceuticals PLC	1192023200	 Ordinary Shares	
+BioSig Technologies Inc	1680631	 Resale of Common Stock	
+biote Corp	851791125	 Quarterly Report	
+biote Corp	 001-40128	 Form 10-Q	
+biote Corp	 333-265714	 Form S-1	
+BitFuFu Inc	30183800	 Class Ordinary Shares	
+BitFuFu Inc.	30183800	 Class Ordinary Shares BitFuFu Inc.	
+BlackRock	 38259P508	 iShares® Core S&P 500 ETF	
+Blackstone Inc.	 90307DYA4	 Common Stock Blackstone Inc.	
+Bluerock Residential Holdings LP	874211187	 Operating Partnership	
+Bridger Aerospace Group Holdings Inc	748357108	 Common Stock	
+Bridger Aerospace Group Holdings Inc	748357116	 Warrants	
+Brighthouse Financial Inc	 2831VSNF5	 Brighthouse Shield® Level II 6-Year Annuity	
+Brighthouse Financial Inc	 333-279302	 BRIGHTHOUSE SHIELD® LEVEL II 3-YEAR ANNUITY	
+Brighthouse Life Insurance Company	3303094	 Brighthouse Shield Level Pay Plus® II Advisory Annuity	
+Brighthouse Life Insurance Company	333276763	 Brighthouse Shield Level Pay Plus® II Annuity	
+Brighthouse Life Insurance Company	 10922VAF1	 Shield Options offering	
+Brighthouse Life Insurance Company NY	333279315	 Brighthouse Shield Level Pay Plus® II Advisory Annuity	
+Business First Bancshares Inc	 	 Autocallable Contingent Coupon Buffer Notes - Memory Coupon Linked to the Common Stock of NVIDIA Corporation Due January 29 2025	
+Calamos Global Dynamic Income Fund	1396277	 Investment Policies	
+Canadian Imperial Bank of Commerce	 13607XSX6	 Fixed Floating Rate Notes Linked to Compounded SOFR due August 6 2027	
+Canoo Inc	 14531387s	 None	
+Captivision Inc	141869	 Company Information and Share Details	
+Captivision Inc	24204341	 Primary Offering	
+Captivision Inc	24204341	 Primary Offering	
+Captivision Inc	30301058	 Ordinary Shares	
+Captivision Inc	38200001	 Secondary Offering	
+Captivision Inc	38200001	 Secondary Offering	
+Captivision Inc.	141869	 Ordinary Shares Resale Registration	
+Carmell Corporation	333279329	 Common Stock registration	
+Cero Therapeutics Holdings Inc	140877	 Common stock par value $0.0001 per share listed on NASDAQ Global Market with symbol CERO and Warrants whole warrant exercisable into one share of common stock listed on NASDAQ Capital Market with symbol CEROW.	
+Cero Therapeutics Holdings Inc	44523704	 Common Stock	
+CERO Therapeutics Holdings Inc	 14075W104	 Issuance of Common Stock upon exercise of Public Warrants	
+CERO Therapeutics Holdings Inc	 14075W104	 Issuance of Common Stock upon exercise of Rollover Warrants	
+CERO Therapeutics Holdings Inc	 14075W104	 Issuance of Common Stock upon exercise of Private Placement Warrants	
+CERO Therapeutics Holdings Inc	 14075W104	 Issuance of Common Stock upon exercise of Common Warrants	
+CERO Therapeutics Holdings Inc	 14075W104	 Issuance of Common Stock upon exercise of Preferred Warrants	
+CervoMed Inc	137942	 Common Stock	
+Cherry Hill Mortgage Investment Corporation	164651100	 Class Common Stock & Warrants Issuance	
+Chipotle Mexican Grill Inc	 90307D6G2	 Common stock Chipotle Mexican Grill Inc	
+Chubb INA Holdings LLC	333260091	 Senior Notes due 2029	
+Chubb INA Holdings LLC	33326009103	 Senior Notes due 2034	
+Chubb INA Holdings LLC	 2034 Notes	 Senior Notes due 2034	
+Cidara Therapeutics Inc	171162106	 Common Stock offering and related details.	
+CII Electric Vehicles Inc	 82452P102	 Capped Notes Absolute Return Buffer Linked to S&P 500® Index due August 29 2025	
+CION Ares Diversified Credit Fund	1678124	 Supplement dated August 6 2024 Prospectuses	
+Citigroup Global Markets Holdings Inc	 17332MEM2	 Autocallable Contingent Coupon Equity Linked Securities Linked to SP 500 Futures 35% Edge Volatility 6% Decrement Index USD ER Due August 9 2029	
+Citigroup Global Markets Holdings Inc	 17332MEM2	 Amended Restated Pricing Supplement	
+Citigroup Global Markets Holdings Inc	 17332MGD0	 Contingent Income AutoCallable Securities Due July 2027 Based Worst Performing Common Stock: Apple Inc Class Common Stock Alphabet Inc Common Stock Netflix Inc	
+Citigroup Global Markets Holdings Inc	 17332MGD0	 Contingent Income AutoCallable Securities Due July 2027	
+Citigroup Global Markets Holdings Inc	 17332MLJ1	 Medium-Term Senior Notes Series N	
+Citigroup Global Markets Holdings Inc	 17332MLJ1	 Medium-Term Senior Notes Series N Amended Restated Pricing Supplement	
+Citigroup Global Markets Holdings Inc	 17332MNA8	 Medium-Term Senior Notes	
+Citigroup Global Markets Holdings Inc	 17332MNA8	 7yr Step Auto Callable JP Morgan Dynamic Blend ℠ Index Notes	
+Citigroup Global Markets Holdings Inc	 17332MVP6	 Notes due 2054	
+Citigroup Global Markets Holdings Inc	 17332MVP6	 Amended Restated Pricing Supplement No 2024-USNCH22970	
+Citigroup Inc.	 17290A6N5	 July 2024 Medium-Term Senior Notes Series G	
+Compass Group Diversified Holdings	 20451PBG5	 MQUSSVA Auto Callable Contingent Interest Notes	
+Complete Solaria Inc	1401177	 None specified - reference to Common Stock and Warrants on Nasdaq	
+Complete Solaria Inc	932279786	 None specified - reference to various Warrants on Nasdaq	
+CONNECTICUT LIGHT POWER COMPANY	 57656577s	 First Refunding Mortgage Bonds 2024 Series B due 2034	
+CONX Corp	 17484456s	 IE 21 SIONew Biz Cat	
+Core Scientific Inc	10795751	 Common Stock	
+Core Scientific Inc	10795751	 Prospectus Supplement	
+Core Scientific Inc	861243837	 Common Stock	
+Core Scientific Inc.	 21873G100	 Common Stock	
+Core Scientific Inc.	 21873G119	 Warrants Tranche 1	
+Core Scientific Inc.	 21873G127	 Warrants Tranche 2	
+Corebridge Financial Inc.	 21871XAQ2	 Rule 144A	
+Corebridge Financial Inc.	 21871XAR0	 New Notes	
+Corebridge Financial Inc.	 U20256AH3	 Regulation S	
+CytoDyn Inc	205652848	 Common Stock Prospectus Update	
+CytoDyn Inc	831887078	 Shares Common Stock	
+Danimer Scientific Inc	16279253	 Common Stock Issuable Upon Exercise Warrants Options	
+Danimer Scientific Inc	16279253	 Shares Common Stock Issuable Upon Exercise Warrants Options	
+Danimer Scientific Inc	32435961	 Common Stock	
+Danimer Scientific Inc	32435961	 Shares Common Stock	
+Danimer Scientific Inc	841924518	 Registration No 333252515	
+DEF LLC	456123789	 Underlying Supplement No. 5	
+Dermata Therapeutics Inc	291841206	 Series Warrants	
+Dermata Therapeutics Inc	291841206	 Series B Warrants	
+DIANTHUS THERAPEUTICS INC	21326988	 Common Stock	
+Dow Chemical Company	 26054MFT3	 Senior Unsecured Notes	
+Dow Chemical Company	 26054MFT3	 Senior Unsecured Notes	
+Dow Chemical Company	 26054MFU0	 Senior Unsecured Notes	
+Dow Chemical Company	 26054MFU0	 Senior Unsecured Notes	
+Dow Chemical Company	 26054MFV8	 Senior Unsecured Notes	
+Dow Chemical Company	 26054MFV8	 Senior Unsecured Notes	
+Dow Chemical Company	 26054MFW6	 Senior Unsecured Notes	
+Dow Chemical Company	 26054MFX4	 Senior Unsecured Notes	
+Dow Chemical Company	 26054MFY2	 Senior Unsecured Notes	
+Dow Jones Industrial Average®	 90307D5K4	 UBS AG Trigger Callable Contingent Yield Notes	
+Dow Jones Industrial Average®	 90307DXJ6	 Buffer Autocallable Notes	
+Energy Transfer LP	38755996	 CUSIP for Common Units Representing Limited Partner Interests	
+Energy Transfer LP	2.93E+107	 Common Units Representing Limited Partner Interests	
+Envoy Medical Inc	861369123	 Class Common Stock & Warrants Issuance	
+Envoy Medical Inc	 28758T109	 Class Common Stock	
+Envoy Medical Inc	 28758T117	 Redeemable Warrants	
+Envoy Medical Inc	 39041G107	 Common Stock	
+Envoy Medical Inc	 39041G115	 Warrants	
+Envoy Medical Inc.	 COCH	 Listing on Nasdaq Capital Market	
+Envoy Medical Inc.	 COCHW	 Listing on Nasdaq Capital Market for Public Warrants	
+Equitable Financial Life Insurance Company	800153	 SCS Income EFLOA	
+Equitable Financial Life Insurance Company	860739	 SIONew Biz Cat 800146 824	
+Equitable Financial Life Insurance Company	863645	 Structured Capital Strategies® PLUS 21	
+Equitable Financial Life Insurance Company	863835	 Structured Capital Strategies® PLUS 21	
+Equitable Financial Life Insurance Company	800152724	 IE 21 SIONew Biz Cat	
+Equitable Financial Life Insurance Company America	800146	 Series 900	
+Equitable Financial Life Insurance Company America	860739	 Series 901	
+Equitable Financial Life Insurance Company America	863645	 Structured Capital Strategies® PLUS 21	
+Eve Holding Inc	333265337	 CUSIP of EVE Holding Inc shares	
+Ford Motor Credit Company LLC	 34540TJ52	 Senior Unsecured Notes	
+Ford Motor Credit Company LLC	 34540TJ60	 Senior Unsecured Notes	
+Forward Air Corporation	 No 333280102	 Registration Statement	
+Franklin Ethereum Trust	 35351J109	 Franklin Ethereum ETF	
+Franklin Templeton Digital Holdings Trust	1992870	 Franklin Bitcoin ETF	
+FRANKLIN TEMPLETON HOLDINGS TRUST	1858258	 FRANKLIN RESPONSIBLY SOURCED GOLD ETF	
+General Electric Company	369604103	 Class Ordinary Shares BitFuFu Inc.	
+GeoVax Labs Inc.	 37247D130	 Warrants Purchase Common Stock	
+GeoVax Labs Inc.	 37247D203	 Common Stock	
+Getaround Inc.	127505604	 Senior Notes due 2034	
+Getaround Inc.	127505604	 Common Units Representing Limited Partner Interests	
+Goldman Sachs	333269296	 MediumTerm Notes Series F guaranteed by The Goldman Sachs Group Inc	
+Grayscale Bitcoin Mini Trust BTC	389930108	 None	
+Grayscale Investments LLC	389638107	 Grayscale Ethereum Trust	
+GS Finance Corp	333269296	 Medium-Term Notes Series F / Warrants Series G	
+GS Finance Corp	333269296	 MediumTerm Notes Series F guaranteed by The Goldman Sachs Group Inc	
+GS Finance Corp	333269296	 Goldman Sachs Momentum Builder® Focus ER Index	
+GS Finance Corp	 333-269296	 Medium-Term Notes Series F Warrants Series G	
+GT Biopharma Inc.	333280326	 Shares Class common stock	
+High Income Securities Fund	17530463	 Shares Beneficial Interest	
+Hyzon Motors Inc	822726724	 Class Common Stock	
+Hyzon Motors Inc	822726724	 Current Report	
+Hyzon Motors Inc	822726724	 Prospectus Supplement	
+Hyzon Motors Inc	822726724	 Common Stock	
+Hyzon Motors Inc	 44951W104	 Class Common Stock	
+Hyzon Motors Inc	 44951W112	 Warrants	
+Intercontinental Exchange Inc	 45866FAZ7	 Title Original Notes	
+Intercontinental Exchange Inc	 45866FBB9	 Title Exchange Notes	
+Intercontinental Exchange Inc	 U45836AA8	 Rule 144A	
+Invesco	 46137V364	 Invesco DB US Dollar Index Bullish Fund	
+Invesco DB Agriculture Fund	461418101	 Invesco DB MultiSector Commodity Trust	
+Invesco DB MultiSector Commodity Trust Invesco DB Energy Fund	333257260	 Prospectus for Invesco DB Energy Fund	
+Invesco DB US Dollar Index Bullish Fund	 46141D203	 Class Common Stock	
+Invesco Galaxy Ethereum ETF	 46148D107	 Prospectus Summary	
+Invesco QQQ Trust Series 1	 48135P5E7	 MQUSTVA Auto Callable Contingent Interest Notes	
+Invesco QQQ Trust SM Series 1	 48135N6J0	 3yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+Invesco QQQ Trust SM Series 1	 48135N6K7	 Initial Value	
+Invesco QQQ Trust SM Series 1	 48135NX92	 CUSIP Number for the Preliminary Pricing Supplement	
+IPC Alternative Real Estate Income Trust Inc	247737	 Class A Common Stock	
+IPC Alternative Real Estate Income Trust Inc	248908	 Class B Common Stock	
+IPC Alternative Real Estate Income Trust Inc	249031	 Class C Common Stock	
+iPower Inc	333280734	 Amendment Form S1 PROSPECTUS Filed Pursuant Rule 424b3 Registration No 333280734	
+iPower Inc	333280734	 Registered Direct Offering	
+iShares	464287.2488	 iShares MSCI USA Quality Factor ETF	
+iShares	464287375	 iShares 20 Year Treasury Bond ETF	
+iShares	464287440	 iShares® 7-10 Year Treasury Bond ETF	
+iShares	464287457	 iShares 1-3 Year Treasury Bond ETF	
+iShares	464287481	 iShares® MSCI USA Momentum Factor ETF	
+iShares	464287556	 iShares MSCI USA Size Factor ETF	
+iShares	464287598	 iShares MSCI USA Value Factor ETF	
+iShares	464287697	 iShares MSCI USA Min Vol Factor ETF	
+iShares Bitcoin Trust ETF	 46438F101	 CUSIP Number	
+iShares Ethereum Trust ETF	 46438R105	 Offering	
+iShares Russell 2000 ETF	 90307D7J5	 CUSIP Number	
+iShares® 10 Year Investment Grade Corporate Bond ETF	464287457	 Preliminary Pricing Supplement	
+iShares® 1-3 Year Treasury Bond ETF	464287457	 Preliminary Pricing Supplement	
+iShares® 1-5 Year Investment Grade Corporate Bond ETF	464287457	 Preliminary Pricing Supplement	
+iShares® 20 Year Treasury Bond ETF	464287432	 Preliminary Pricing Supplement	
+iShares® 5-10 Year Investment Grade Corporate Bond ETF	464287442	 Preliminary Pricing Supplement	
+iShares® 7-10 Year Treasury Bond ETF	464287440	 Preliminary Pricing Supplement	
+iShares® Floating Rate Bond ETF	 46429B655	 Preliminary Pricing Supplement	
+iShares® iBoxx $ High Yield Corporate Bond ETF	464288513	 Preliminary Pricing Supplement	
+iShares® JP Morgan USD Emerging Markets Bond ETF	464286392	 Preliminary Pricing Supplement	
+iShares® MBS ETF	464287456	 Preliminary Pricing Supplement	
+iShares® Preferred Income Securities ETF	464288842	 Preliminary Pricing Supplement	
+iShares® TIPS Bond ETF	464287176	 Preliminary Pricing Supplement	
+Issuer - JPMorgan Chase Financial Company LLC	 48135PH61	 Preliminary Pricing Supplement	
+J.P. Morgan	 333-270004	 Registration Statement Nos	
+J.P. Morgan	 333-270004	 Registration Statement	
+J.P. Morgan	 333-270004	 Registration Statement	
+J.P. Morgan	 333-270004-01	 Registration Statement Nos	
+J.P. Morgan	 333-270004-01	 Registration Statement	
+J.P. Morgan	 46625H100	 J.P. Morgan U.S. Low Volatility Index Total Return	
+J.P. Morgan	 48128B500	 J.P. Morgan Core Bond SM Index	
+J.P. Morgan Chase & Co	 4812 5461	 Securities Exchange Commission Registration	
+JLL Income Property Trust Inc	201432284	 Registration Statement	
+JP Morgan	270004	 Registration Statement	
+JP Morgan	270004	 Registration Statement	
+JP Morgan	333270004	 Registration Statement	
+JP Morgan	 270004-01	 Registration Statement	
+JP Morgan	 333-270004	 JP Morgan Kronos US Equity JPUSKRSP Index	
+JP Morgan	 333-270004	 Rule 424b3	
+JP Morgan	 333-270004	 Registration Statement	
+JP Morgan	 333-270004	 Securities Exchange Commission Registration	
+JP Morgan	 333-270004	 Registration Statement	
+JP Morgan	 333-270004	 JP Morgan Kronos SM Index	
+JP Morgan	 333270004-01	 Registration Statement	
+JP Morgan	 44444L1	 Performance Measurement Notes	
+JP Morgan	 46625HJY0	 Performance Linked Notes	
+JP Morgan	 48133P6G3	 3 Year Auto Callable Contingent Interest Note	
+JP Morgan	 48133P6H1	 MerQube US Small Cap Vol Advantage Index® – 3 Year Auto Callable Contingent Interest Note Offerings	
+JP Morgan	 48133P6X6	 5 Year Auto Callable Contingent Interest Note	
+JP Morgan	 48133P6Y4	 MerQube US Small Cap Vol Advantage Index® – 5 Year Auto Callable Contingent Interest Note Offerings	
+JP Morgan	 48133PJ53	 MerQube US Small Cap Vol Advantage Index® – 3 Year Auto Callable Contingent Interest Note Offerings	
+JP Morgan	 48133PJ53	 3 Year Auto Callable Contingent Interest Note	
+JP Morgan	 48133PJ79	 MerQube US Small Cap Vol Advantage Index® – 3 Year Auto Callable Contingent Interest Note Offerings	
+JP Morgan	 48133PJ79	 3 Year Auto Callable Contingent Interest Note	
+JP Morgan	 48133PJ95	 MerQube US Small Cap Vol Advantage Index® – 3 Year Auto Callable Contingent Interest Note Offerings	
+JP Morgan	 48133PJ95	 3 Year Auto Callable Contingent Interest Note	
+JP Morgan	 48133PK44	 MerQube US Small Cap Vol Advantage Index® – 5 Year Auto Callable Contingent Interest Note Offerings	
+JP Morgan	 48133PK44	 5 Year Auto Callable Contingent Interest Note	
+JP Morgan	 48133PK69	 MerQube US Small Cap Vol Advantage Index® – 5 Year Auto Callable Contingent Interest Note Offerings	
+JP Morgan	 48133PK69	 5 Year Auto Callable Contingent Interest Note	
+JP Morgan	 48133PK85	 MerQube US Small Cap Vol Advantage Index® – 5 Year Auto Callable Contingent Interest Note Offerings	
+JP Morgan	 48133PK85	 5 Year Auto Callable Contingent Interest Note	
+JP Morgan	 48135N6L5	 5yrNC1yr MQUSTVA Auto Callable Contingent Interest Notes	
+JP Morgan	 48135NP26	 5yrNC6m Contingent Interest Auto Callable Notes Linked to MerQube US Tech Vol Advantage Index	
+JP Morgan	 48135P4A6	 Preliminary Pricing Supplement for 3yr Auto Callable Review Notes Linked to the MerQube US Large Cap Vol Advantage Index	
+JP Morgan	 48135P4N8	 5yr Auto Callable Review Notes Linked to the MerQube US Tech Vol Advantage Index	
+JP Morgan	 48135P5V9	 North America Structured Investments 5yrNC1yr MQUSSVA Auto Callable Contingent Interest Notes	
+JP Morgan	 48135P7G0	 Senior Unsecured Notes	
+JP Morgan	 48135P7M7	 Preliminary Pricing Supplement	
+JP Morgan	 48135PE31	 Summary Term Note	
+JP Morgan	 48135PE64	 3-Year Uncapped Barrier Notes Linked to JP Morgan Kronos SM Index	
+JP Morgan	 48135PF22	 5yNC1y Contingent Interest Auto Callable Notes linked MerQube US Tech Vol Advantage Index	
+JP Morgan	 48135PF48	 5yrNC1yr Contingent Interest Auto Callable Notes Linked MerQube US Tech Vol Advantage Index	
+JP Morgan Chase	 48135NP26	 5yrNC6m Contingent Interest Auto Callable Notes Linked to MerQube US Tech Vol Advantage Index	
+JP Morgan Chase & Co	 46625H100	 JP Morgan Kronos SM Index.	
+JP Morgan Chase & Co	 46625H100	 JP Morgan Chase & Co	
+JP Morgan Chase & Co.	 333 270004	 Registration Statement Nos 333 270004 and 333 270004-01	
+JP Morgan Chase & Co.	 333 270004-01	 Registration Statement Nos 333 270004 and 333 270004-01	
+JP Morgan Chase & Co.	 48129KDE7	 Preliminary Pricing Supplement	
+JP Morgan Chase Financial Company LLC	 48135N6H4	 3yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JP Morgan Chase Financial Company LLC	 48135NK54	 5yr Return Notes Linked to the JP Morgan Total Return Index	
+JP Morgan Chase Financial Company LLC	 48135NK62	 5yr Auto Callable JP Morgan Multi Asset Linked Index Notes	
+JP Morgan Chase Financial Company LLC	 48135NK62	 5yr Auto Callable JP Morgan Multi Asset Linked Index Notes	
+JP Morgan Chase Financial Company LLC	 48135NK88	 7yr Auto Callable JP Morgan Multi Asset Index Linked Notes	
+JP Morgan Chase Financial Company LLC	 48135NL46	 Preliminary Pricing Supplement	
+JP Morgan Chase Financial Company LLC	 48135NL61	 1 Year Return Notes linked to the JP Morgan Kronos SM Index	
+JP Morgan Chase Financial Company LLC	 48135NW85	 4yr SP ® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER Linked Notes	
+JP Morgan Chase Financial Company LLC	 48135P3S8	 7yr Step Auto Callable Notes	
+JP Morgan Chase Financial Company LLC	 48135P4X6	 Borrower Payment Dependent Notes	
+JP Morgan Chase Financial Company LLC	 48135P5F4	 North America Structured Investments	
+JP Morgan Chase Financial Company LLC	 48135P5R8	 5yrNC1yr MQUSLVA Auto Callable Contingent Interest Notes	
+JP Morgan Chase Financial Company LLC	 48135P7G0	 JP Morgan Multi Asset Index Linked Notes	
+JP Morgan Chase Financial Company LLC	 48135P7L9	 4yr JP Morgan Dynamic Blend ℠ Index Notes	
+JP Morgan Chase Financial Company LLC	 48135PE49	 3yr Return Notes linked to JP Morgan Kronos SM Index	
+JP Morgan Chase Financial Company LLC	 48135PF22	 Preliminary Pricing Supplement	
+JP Morgan Chase Financial Company LLC	 48135PF30	 CUSIP for Structured Investments Linked to MerQube US Tech Vol Advantage Index	
+JP Morgan Chase Financial Company LLC	 48135PK67	 Preliminary Pricing Supplement	
+JP Morgan Securities LLC	 333-270004	 Registration Statement	
+JP Morgan Structured Investments	 48135NG67	 5yrNC1yr MQUSLVA Auto Callable Contingent Interest Notes	
+JP Morgan Structured Investments	 48135NW77	 Contingent Interest Auto Callable Notes	
+JP Morgan Structured Investments	 48135P5V9	 MQUSSVA Auto Callable Contingent Interest Notes	
+JPMorgan	 48133P6F5	 Worst  SP 500 \u00ae \/ Russell 2000 \u00ae	
+JPMorgan	 48133P6W8	 Worst  SP 500 \u00ae \/ Russell 2000 \u00ae	
+JPMorgan	 48133PJ53	 Worst  SP 500 \u00ae \/ Russell 2000 \u00ae	
+JPMorgan	 48133PJ79	 Worst  SP 500 \u00ae \/ Russell 2000 \u00ae	
+JPMorgan	 48133PJ95	 Worst  SP 500 \u00ae \/ Russell 2000 \u00ae	
+JPMorgan	 48133PK44	 Worst  SP 500 \u00ae \/ Russell 2000 \u00ae	
+JPMorgan	 48133PK69	 Worst  SP 500 \u00ae \/ Russell 2000 \u00ae	
+JPMorgan	 48133PK85	 Worst  SP 500 \u00ae \/ Russell 2000 \u00ae	
+JPMorgan	 48135NK96	 SP® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER Linked Notes	
+JPMorgan Chase	 48133P6F5	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase	 48133P6W8	 Worst S&P 500 & Russell 2000	
+JPMorgan Chase	 48133PJ53	 EURO STOXX 50	
+JPMorgan Chase	 48133PJ79	 Nasdaq 100 Index	
+JPMorgan Chase	 48133PJ95	 Russell 2000	
+JPMorgan Chase	 48133PK44	 Worst S&P 500 & Nasdaq 100 Index	
+JPMorgan Chase	 48133PK69	 Worst S&P 500 & Nasdaq 100 Index	
+JPMorgan Chase	 48133PK85	 Worst S&P 500 & Russell 2000	
+JPMorgan Chase	 48135NF43	 5yrNC6m MQUSSVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase	 48135NY26	 Preliminary Pricing Supplement	
+JPMorgan Chase & Co	464286368	 iShares Russell 2000 ETF (IWM)	
+JPMorgan Chase & Co	464288400	 iShares MSCI Emerging Markets ETF (EEM)	
+JPMorgan Chase & Co	 46625H100	 JP Morgan Kronos SM Index	
+JPMorgan Chase & Co	 46625HKA7	 JPMorgan Chase & Co. Product Supplement No. 3	
+JPMorgan Chase & Co	 48128W561	 SPDR S&P 500 ETF Trust (VOO)	
+JPMorgan Chase & Co	 48133P6F5	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase & Co	 48133P6W8	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase & Co	 48133PJ53	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase & Co	 48133PJ79	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase & Co	 48133PJ95	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase & Co	 48133PK44	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase & Co	 48133PK69	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase & Co	 48133PK85	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase & Co	 48135NK70	 JP Morgan Multi Asset Index Linked Notes	
+JPMorgan Chase & Co	 78467V107	 iShares MSCI EAFE ETF (EFA)	
+JPMorgan Chase & Co.	69798145	 Registration Statement	
+JPMorgan Chase & Co.	 46625H1	 MerQube US Small Cap Vol Advantage	
+JPMorgan Chase & Co.	 46625H100	 J.P. Morgan Kronos SM Index	
+JPMorgan Chase & Co.	 46625H100	 SP® Global 100 Index	
+JPMorgan Chase & Co.	 48126AQQ4	 Prospectus	
+JPMorgan Chase & Co.	 48133P6F5	 MerQube US Tech Vol Advantage Index®	
+JPMorgan Chase & Co.	 48133P6G3	 MerQube US Large Cap Vol Advantage Index \/ SP 500 \u00ae \/ Russell 2000 \u00ae \/ EURO STOXX 50 \u00ae	
+JPMorgan Chase & Co.	 48133P6H1	 3 Year Auto Callable Contingent Interest Note Offering	
+JPMorgan Chase & Co.	 48133P6W8	 MerQube US Tech Vol Advantage Index®	
+JPMorgan Chase & Co.	 48133P6Y4	 5 Year Auto Callable Contingent Interest Note Offering	
+JPMorgan Chase & Co.	 48133PJ53	 Worst  SP 500 \u00ae \/ Russell 2000 \u00ae	
+JPMorgan Chase & Co.	 48133PJ53	 MerQube US Tech Vol Advantage Index®	
+JPMorgan Chase & Co.	 48133PJ53	 3 Year Auto Callable Contingent Interest Note Offering	
+JPMorgan Chase & Co.	 48133PJ79	 MerQube US Large Cap Vol Advantage Index \/ Worst SP 500 \u00ae \/ Russell 2000 \u00ae \/ Nasdaq  100 Index \u00ae	
+JPMorgan Chase & Co.	 48133PJ79	 MerQube US Tech Vol Advantage Index®	
+JPMorgan Chase & Co.	 48133PJ79	 3 Year Auto Callable Contingent Interest Note Offering	
+JPMorgan Chase & Co.	 48133PJ95	 MerQube US Large Cap Vol Advantage Index \/ SP 500 \u00ae \/ Russell 2000 \u00ae \/ Nasdaq  100 Index \u00ae	
+JPMorgan Chase & Co.	 48133PJ95	 MerQube US Tech Vol Advantage Index®	
+JPMorgan Chase & Co.	 48133PJ95	 3 Year Auto Callable Contingent Interest Note Offering	
+JPMorgan Chase & Co.	 48133PK44	 MerQube US Tech Vol Advantage Index®	
+JPMorgan Chase & Co.	 48133PK44	 5 Year Auto Callable Contingent Interest Note Offering	
+JPMorgan Chase & Co.	 48133PK69	 MerQube US Tech Vol Advantage Index®	
+JPMorgan Chase & Co.	 48133PK69	 5 Year Auto Callable Contingent Interest Note Offering	
+JPMorgan Chase & Co.	 48133PK85	 MerQube US Tech Vol Advantage Index®	
+JPMorgan Chase & Co.	 48133PK85	 5 Year Auto Callable Contingent Interest Note Offering	
+JPMorgan Chase & Co.	 48135N6B7	 7yr Step Auto Callable JP Morgan Dynamic Blend ℠ Index Notes	
+JPMorgan Chase Financial Company LLC	 48129KDE7	 5yr Return Notes Linked to the JP Morgan Total Return Index	
+JPMorgan Chase Financial Company LLC	 48129KDF4	 JP Morgan Total Return Index	
+JPMorgan Chase Financial Company LLC	 48129KDF4	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48134X6R1	 Structured Investments Review Notes Linked to MerQube US LargeCap Vol Advantage Index due 2029	
+JPMorgan Chase Financial Company LLC	 48134X6R1	 Structured Investments Notes Linked MerQube US LargeCap Vol Advantage Index due May 17 2029	
+JPMorgan Chase Financial Company LLC	 48135M2T4	 Notes Linked to JP Morgan Dynamic BlendSM Index due July 3 2028	
+JPMorgan Chase Financial Company LLC	 48135M2T4	 Structured Investments Notes Linked JP Morgan Dynamic BlendSM Index due July 3 2028	
+JPMorgan Chase Financial Company LLC	 48135MGS1	 Structured Investments Auto Callable Barrier Notes	
+JPMorgan Chase Financial Company LLC	 48135MGS1	 Structured Investments Auto Callable Barrier Notes	
+JPMorgan Chase Financial Company LLC	 48135N5K8	 Contingent Interest Notes Linked to Least Performing Russell 2000® Index Nasdaq-100 Index® S&P 500® Index due July 22 2027	
+JPMorgan Chase Financial Company LLC	 48135N5K8	 Structured Investments Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135N6B7	 JP Morgan Dynamic Blend ℠ Index	
+JPMorgan Chase Financial Company LLC	 48135N6G6	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135N6G6	 MerQube US Small Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135N6H4	 3yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135N6K7	 Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135N6L5	 Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135N6M3	 Underlying Supplement No. 5	
+JPMorgan Chase Financial Company LLC	 48135N6M3	 5yrNC6m MQUSSVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135N7M2	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135N7M2	 JP Morgan Dynamic Blend ℠ Index Capped Digital Notes	
+JPMorgan Chase Financial Company LLC	 48135ND52	 Underlying Supplement No. 5	
+JPMorgan Chase Financial Company LLC	 48135ND52	 MerQube US Small Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135ND78	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135ND94	 5yrNC6m MQUSTVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135ND94	 5yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135NE36	 5yrNC1yr MQUSTVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135NE36	 MQUSTVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135NE44	 3yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135NE44	 MerQube US Large Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NE85	 MerQube US Large Cap Vol Advantage Index Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135NF35	 MerQube US Large Cap Vol Advantage Index Auto Callable Contingent Interest Note	
+JPMorgan Chase Financial Company LLC	 48135NF35	 5yrNC1yr MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135NF43	 MerQube US Small Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NF92	 MerQube US Large Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NF92	 MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135NG67	 MerQube US Large Cap Vol Advantage Index Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135NK54	 3yr Auto Callable JP Morgan Multi Asset Index Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135NK70	 5yr Auto Callable JP Morgan Multi Asset Index Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135NK88	 7yr Auto Callable JP Morgan Multi Asset Index Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135NK96	 4yr SP ® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135NL20	 7yr SP ® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135NL20	 7yr SP® Global 100 PR 5 Daily Risk Control 0.5% Deduction Index USD ER Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135NL38	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135NL38	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135NL46	 3yr Return Notes Linked to the JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135NL53	 MerQube US Tech Vol Advantage Index Notes	
+JPMorgan Chase Financial Company LLC	 48135NL53	 5yr Uncapped Accelerated Barrier Notes linked to JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135NL61	 Preliminary Pricing Supplement for JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135NL79	 5yr Return Notes Linked to the JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135NL79	 5yr Return Notes Linked to JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135NLZ7	 Structured Investments Review Notes Linked to Least Performing iShares® Russell 2000 Value ETF iShares® 20 Year Treasury Bond ETF Energy Select Sector SPDR® Fund due June 22 2029	
+JPMorgan Chase Financial Company LLC	 48135NLZ7	 Registration Statement	
+JPMorgan Chase Financial Company LLC	 48135NT22	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135NT22	 SP® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135NT89	 5yNC1y Auto Callable Review Notes Linked to MerQube US Large Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NT89	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135NW77	 Contingent Interest Auto Callable Notes linked MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NW85	 5yNC1y Contingent Interest Auto Callable Notes	
+JPMorgan Chase Financial Company LLC	 48135NW93	 Shares Class common stock	
+JPMorgan Chase Financial Company LLC	 48135NW93	 5yrNC1yr Contingent Interest Auto Callable Notes Linked to MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NX27	 5yNC1y Contingent Interest Auto Callable Notes linked to MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NX27	 Contingent Interest Auto Callable Notes linked to the MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NX76	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135NX76	 3yr Auto Callable Review Notes Linked to MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NX92	 MerQube US Large Cap Vol Advantage Index Note	
+JPMorgan Chase Financial Company LLC	 48135NY26	 5yr Auto Callable Review Notes	
+JPMorgan Chase Financial Company LLC	 48135NY34	 MerQube US Tech Vol Advantage Index Notes	
+JPMorgan Chase Financial Company LLC	 48135NY34	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135NY42	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135NY67	 5yr Auto Callable Review Notes linked to MerQube US Large Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NY67	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135NY75	 5yr Auto Callable Review Notes Linked to MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135NY75	 Notes offered by JPMorgan Chase	
+JPMorgan Chase Financial Company LLC	 48135NY83	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135NY83	 5yr Auto Callable Review Notes linked to MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P3S8	 7yr Step Auto Callable JP Morgan Dynamic Blend ℠ Index Notes	
+JPMorgan Chase Financial Company LLC	 48135P3U3	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135P3U3	 5yNC1y Contingent Interest Auto Callable Notes linked MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P3U3	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135P3V1	 Preliminary Pricing Supplement for 3yr Auto Callable Review Notes Linked to the MerQube US Large Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P3V1	 Summary Term Note Offered	
+JPMorgan Chase Financial Company LLC	 48135P3W9	 Term Note	
+JPMorgan Chase Financial Company LLC	 48135P3W9	 3yr Auto Callable Review Notes Linked MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P3Y5	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135P3Y5	 5yr Auto Callable Review Notes linked to MerQube US Large Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P4A6	 3yr Auto Callable Review Notes Linked MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P4J7	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135P4K4	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135P4K4	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135P4M0	 5 Year Auto Callable Review Notes linked to MerQube US Large Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P4M0	 7yr SP® Global 100 PR 5 Daily Risk Control 0.5 Deduction Index USD ER Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135P4N8	 MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P4P3	 Summary Term Note - 5yr Return Notes Linked to JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135P4P3	 5yr Auto Callable Review Notes Linked MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P4V0	 3yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P4W8	 5yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P4W8	 5yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P4X6	 MerQube US LargeCap Vol Advantage Index Notes	
+JPMorgan Chase Financial Company LLC	 48135P4Y4	 5yrNC6m MQUSSVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P4Y4	 5yrNC6m MQUSSVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P4Z1	 5yrNC1yr MQUSSVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P4Z1	 Common Stock	
+JPMorgan Chase Financial Company LLC	 48135P5B3	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135P5B3	 3yrNC6m MQUSTVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P5F4	 Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P5H0	 3yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P5H0	 3yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P5K3	 MerQube US Large Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P5K3	 MerQube US Large Cap Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135P5R8	 5yrNC1yr MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P5T4	 North America Structured Investments 5yrNC6m MQUSSVA Auto Callable Contingent Interest Notes	
+JPMorgan Chase Financial Company LLC	 48135P5T4	 Prospectus for Invesco DB Energy Fund	
+JPMorgan Chase Financial Company LLC	 48135P7H8	 Preliminary Pricing Supplement of 5yr Auto Callable JP Morgan Multi Asset Linked Index Notes	
+JPMorgan Chase Financial Company LLC	 48135P7H8	 5yr Auto Callable JP Morgan Multi Asset Linked Index Notes	
+JPMorgan Chase Financial Company LLC	 48135P7J4	 3yr JP Morgan Dynamic Blend ℠ Index Capped Digital Notes	
+JPMorgan Chase Financial Company LLC	 48135P7J4	 JP Morgan Dynamic Blend ℠ Index Notes	
+JPMorgan Chase Financial Company LLC	 48135P7K1	 JP Morgan Multi Asset Index Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135P7K1	 5yr Auto Callable JP Morgan Multi Asset Index Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135P7L9	 JP Morgan Dynamic Blend SM Index 4yr Notes	
+JPMorgan Chase Financial Company LLC	 48135P7M7	 7yr Auto Callable JP Morgan Multi Asset Index Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135P7M7	 Issuer	
+JPMorgan Chase Financial Company LLC	 48135PD32	 Preliminary Pricing Supplement for Dynamic Blend Index Notes	
+JPMorgan Chase Financial Company LLC	 48135PD32	 JP Morgan Dynamic Blend ℠ Index Capped Digital Notes	
+JPMorgan Chase Financial Company LLC	 48135PD57	 Senior Unsecured Notes	
+JPMorgan Chase Financial Company LLC	 48135PD57	 SP ® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135PE31	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135PE49	 3yr Return Notes linked to the JPMorgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135PE56	 Summary Term Note - 5yr Return Notes Linked to JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135PE56	 Preliminary Pricing Supplement for JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135PE64	 Preliminary Pricing Supplement	
+JPMorgan Chase Financial Company LLC	 48135PE80	 5yr Uncapped Accelerated Barrier Notes linked JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135PE80	 5yr Uncapped Accelerated Barrier Notes linked to the JP Morgan Kronos SM Index	
+JPMorgan Chase Financial Company LLC	 48135PF30	 5yNC1y Contingent Interest Auto Callable Notes linked to MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135PF48	 5yrNC1yr Contingent Interest Auto Callable Notes Linked MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135PF55	 Term Note	
+JPMorgan Chase Financial Company LLC	 48135PF55	 5yNC1y Contingent Interest Auto Callable Notes linked to MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135PH61	 5yrNC6m Contingent Interest Auto Callable Notes Linked to MerQube US Tech Vol Advantage Index	
+JPMorgan Chase Financial Company LLC	 48135PK59	 4yr SP ® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135PK59	 4yr SP ® Global 100 PR 5 Daily Risk Control 05 Deduction Index USD ER Linked Notes	
+JPMorgan Chase Financial Company LLC	 48135PK67	 7yr SP® Global 100 PR 5 Daily Risk Control 0.5 Deduction Index USD ER Linked Notes	
+JPMorgan Chase Financial Company LLC / JPMorgan Chase & Co.	 48135NE85	 5yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+JPMorgan Financial Company LLC	 /	 3yr Auto Callable Review Notes linked to the MerQube US Large Cap Vol Advantage Index: summary of main terms risks and disclaimers	
+Kazia Therapeutics Limited	485775106	 American Depositary Shares representing Ordinary Shares	
+Kennedy Wilson Holdings Inc	260508760	 Annual Report Form 10K	
+Lindblad Expeditions Holdings Inc.	525226	 Common Stock - Nasdaq Symbol LIND	
+Lionsgate Studios Corp	26207557	 Common Shares	
+LiveWire Group Inc	874730333	 Prospectus supplement and Form 10Q	
+LiveWire Group Inc	874730333	 Common Stock Listed on NYSE	
+Magnet Forensics LLC	 558610AC0	 MQUSSVA Auto Callable Contingent Interest Notes	
+ManTech International Corporation	 144663AG8	 MQUSSVA Auto Callable Contingent Interest Notes	
+ManTech International Corporation	 564563AA1	 MQUSSVA Auto Callable Contingent Interest Notes	
+Medline Borrower LP	 58501WAE3	 MQUSSVA Auto Callable Contingent Interest Notes	
+MerQube	 48133P6G3	 Worst SP 500 ®  Russell 2000 ®  EURO STOXX 50 ®	
+MerQube	 48133P6X6	 Worst SP 500 ®  Russell 2000 ®  EURO STOXX 50 ®	
+MerQube	 48133PJ53	 Worst SP 500 ®  Russell 2000 ®  Nasdaq 100 Index ®	
+MerQube	 48133PJ79	 Worst SP 500 ®  Russell 2000 ®  Nasdaq 100 Index ®	
+MerQube	 48133PJ95	 Worst SP 500 ®  Russell 2000 ®	
+MerQube	 48133PK44	 Worst SP 500 ®  Russell 2000 ®  Nasdaq 100 Index ®	
+MerQube	 48133PK69	 Worst SP 500 ®  Russell 2000 ®  Nasdaq 100 Index ®	
+MerQube	 48133PK85	 Worst SP 500 ®  Russell 2000 ®	
+MerQube US Small Cap Vol Advantage	 48133P6H1	 Quarterly Interest	
+MerQube US Small Cap Vol Advantage Index	 48133P6H1	 Underlying Index for Contingent Interest Notes	
+MerQube US Small Cap Vol Advantage Index	 48133P6Y4	 Underlying Index for Contingent Interest Notes	
+MerQube US Small Cap Vol Advantage Index	 48133PJ53	 Underlying Index for Contingent Interest Notes	
+MerQube US Small Cap Vol Advantage Index	 48133PJ79	 Underlying Index for Contingent Interest Notes	
+MerQube US Small Cap Vol Advantage Index	 48133PJ95	 Underlying Index for Contingent Interest Notes	
+MerQube US Small Cap Vol Advantage Index	 48133PK44	 Underlying Index for Contingent Interest Notes	
+MerQube US Small Cap Vol Advantage Index	 48133PK69	 Underlying Index for Contingent Interest Notes	
+MerQube US Small Cap Vol Advantage Index	 48133PK85	 Underlying Index for Contingent Interest Notes	
+MerQube US Tech Vol Advantage Index	 48135N6J0	 Preliminary Pricing Supplement	
+MerQube US Tech Vol Advantage Index	 48135P5E7	 Auto Callable Contingent Interest Notes	
+Metals Acquisition Limited	6535304	 Private Warrants	
+Metals Acquisition Limited	6535304	 Private Warrants	
+Metals Acquisition Limited	6535304	 Private Warrants	
+Metals Acquisition Limited	64478325	 Ordinary Shares	
+Metals Acquisition Limited	64478325	 Ordinary Shares	
+Metals Acquisition Limited	64478325	 Ordinary Shares	
+Microbot Medical Inc	 333-276487	 Common Stock	
+Microbot Medical Inc	 59514P103	 Common Stock	
+Mobix Labs Inc	19905953	 Prospectus Supplement No 1	
+Mobix Labs Inc.	140621	 Current Report	
+Mobix Labs Inc.	981591717	 IRS Employer Identification	
+Modiv Industrial Inc	474156046	 Form 10Q	
+Morgan Stanley Smith Barney LLC	 1585 Broadway New York NY 10036	 Owner	
+Movella Holdings Inc	140074	 Common stock	
+MSP Recovery Inc	5638092	 Common Shares	
+MSP Recovery Inc	5638092	 5638092 share Class Common Stock issuable upon exercise Class Common Stock Underlying Warrant	
+MSP Recovery Inc dba LifeWallet	5638092	 5638092 Shares Class Common Stock	
+Nasdaq-100 Index	 90307D2D3	 Trigger Callable Contingent Yield Notes	
+Nasdaq100 Technology Sector IndexSM	 90307DR38	 Buffer Callable Contingent Yield Notes	
+National Rural Utilities Cooperative Finance Corp	 63743F2U9	 Senior Unsecured Notes	
+National Rural Utilities Cooperative Finance Corp	 63743F2U9	 JP Morgan Kronos SM Index	
+National Rural Utilities Cooperative Finance Corp	 63743F2V7	 Senior Unsecured Notes	
+National Rural Utilities Cooperative Finance Corp	 63743F2V7	 Senior Unsecured Notes	
+National Rural Utilities Cooperative Finance Corp	 63743F2W5	 Senior Unsecured Notes	
+National Rural Utilities Cooperative Finance Corp	 63743F2W5	 Senior Unsecured Notes	
+National Rural Utilities Cooperative Finance Corp	 63743F2X3	 Common Stock - Nasdaq Capital Market	
+National Rural Utilities Cooperative Finance Corp	 63743F2X3	 Prospectus Supplement	
+National Rural Utilities Cooperative Finance Corp	 63743F2Y1	 Senior Unsecured Notes	
+Nauticus Robotics Inc.	 87169K107	 Shares of Common Stock Underlying Private Warrants	
+Nauticus Robotics Inc.	 87169K206	 Shares of Common Stock Underlying Public Warrants	
+Nauticus Robotics Inc.	 87169K305	 Shares of Common Stock	
+Neptune Holdings Inc	 44981VBL9	 MQUSSVA Auto Callable Contingent Interest Notes	
+NET POWER INC	200445567	 Class Common Stock and Warrants	
+New Circle Principal Investments LLC	141869	 Registration of Ordinary Shares	
+Newmont Corporation	624639000	 Existing 2030 Notes	
+Nikola Corporation	23890000	 Shares Common Stock Issuable Upon Exercise Warrants	
+Nikola Corporation	53390000	 Common Stock	
+Nikola Corporation	249843711	 Prospectus Supplement	
+Nikola Corporation	654110102	 Public Warrants and Private Warrants	
+Nikola Corporation	654110201	 Common Stock	
+North America Structured Investments	 48135ND78	 Preliminary Pricing Supplement	
+North America Structured Investments	 48135P4V0	 3yrNC6m MQUSLVA Auto Callable Contingent Interest Notes	
+Nuburu Inc	851288435	 Common Stock	
+Nuburu Inc	 67021W301	 Grayscale Ethereum Trust	
+NUBURU Inc	 67021W301	 Reverse Stock Split	
+NUBURU Inc	 67021W301	 1-for-40 Reverse Stock Split	
+Nuburu Inc	 67021W301	 1-for-40 Reverse Stock Split	
+Nuburu Inc.	851288435	 Common Stock	
+Oakwood Bancshares Inc	 	 Autocallable Contingent Coupon Buffer Notes - Memory Coupon Linked to the Common Stock of NVIDIA Corporation Due January 29 2025	
+P10 Inc	872908160	 Medium-Term Senior Notes Series N Amended Restated Pricing Supplement	
+ParkerVision Inc	592971472	 Common Stock	
+ParkerVision Inc	701354102	 JP Morgan Multi Asset Index Linked Notes	
+ParkerVision Inc	701354102	 Common Stock	
+PARKERVISION INC	701354102	 Common Stock Exchange	
+PARKERVISION INC	 	 Prospectus Supplement related to 9387500 Shares of Common Stock.	
+Patria Investments Limited	 333-275787	 Prospectus Offering	
+PINEAPPLE FINANCIAL INC	13910991	 Filed pursuant Rule 424b3 Registration No 333279802 PROSPECTUS PINEAPPLE FINANCIAL INC	
+Pineapple Financial Inc	13910991	 PROSPECTUS PINEAPPLE FINANCIAL INC 13910991 Common Shares	
+Pineapple Financial Inc	13910991	 Filed pursuant Rule 424b3 Registration No 333279802 PROSPECTUS PINEAPPLE FINANCIAL INC	
+Pomona Investment Fund	89062848	 Prospectus	
+Portage Biotech Inc	 G7185A128	 5yr Auto Callable JP Morgan Multi Asset Index Linked Notes	
+Prologis LP	 74340XCK5	 Notes due 2054	
+Prosper Funding LLC	13366463	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13367522	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13368791	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13369064	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13369616	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13369787	 Borrower Payment Dependent Notes Series 13369787	
+Prosper Funding LLC	13369796	 Borrower Payment Dependent Notes Series 13369796	
+Prosper Funding LLC	13369856	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13370087	 Borrower Payment Dependent Notes Series 13370087	
+Prosper Funding LLC	13370114	 Borrower Payment Dependent Notes Series 13370114	
+Prosper Funding LLC	13370189	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13370405	 Borrower Payment Dependent Notes Series 13370405	
+Prosper Funding LLC	13370414	 Borrower Payment Dependent Notes Series 13370414	
+Prosper Funding LLC	13370444	 Borrower Payment Dependent Notes Series 13370444	
+Prosper Funding LLC	13370453	 Borrower Payment Dependent Notes Series 13370453	
+Prosper Funding LLC	13370489	 Borrower Payment Dependent Notes Series 13370489	
+Prosper Funding LLC	13370516	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13370666	 Borrower Payment Dependent Notes Series 13370666	
+Prosper Funding LLC	13370702	 Borrower Payment Dependent Notes Series 13370702	
+Prosper Funding LLC	13370732	 Borrower Payment Dependent Notes Series 13370732	
+Prosper Funding LLC	13370747	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13370843	 Borrower Payment Dependent Notes Series 13370843	
+Prosper Funding LLC	13370876	 Borrower Payment Dependent Notes Series 13370876	
+Prosper Funding LLC	13371020	 Borrower Payment Dependent Notes Series 13371020	
+Prosper Funding LLC	13371125	 Borrower Payment Dependent Notes Series 13371125	
+Prosper Funding LLC	13372298	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13372637	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13372682	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13372727	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13372730	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13372784	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13372859	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13372910	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13372916	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373324	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373339	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373399	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373405	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373414	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373462	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373546	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373636	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373705	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373768	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373885	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13373984	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13374056	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13374089	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13374257	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13374344	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13374452	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13374518	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13374527	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13374569	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13375370	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13375541	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13375556	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13375667	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13375739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13375742	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13376198	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13376420	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13376495	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13376729	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13376801	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13376966	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13377029	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13377104	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13377197	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13377212	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13377227	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13377275	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13377281	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13377302	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13377614	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13377944	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13378190	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13378214	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13379906	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13380011	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13380032	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13380158	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13380164	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13380173	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13380197	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13380209	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13381811	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13382186	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13382816	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13382867	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13383194	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13383314	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13383431	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13383452	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13383506	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13383572	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13383593	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13383791	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13383836	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13386008	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13386272	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13386371	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13386956	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387040	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387115	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387268	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387310	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387325	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387331	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387364	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387715	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387856	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387874	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387886	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387913	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387922	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13387937	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13388006	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13388018	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13388030	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13388036	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13388315	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13388363	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13388660	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13388903	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389047	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389062	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389080	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389089	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389140	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389146	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389167	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389257	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389284	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389521	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13389563	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13547881	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13547926	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13548361	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13549303	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13549477	 Borrower Payment Dependent Notes Series 13549477	
+Prosper Funding LLC	13549504	 Borrower Payment Dependent Notes Series 13549504	
+Prosper Funding LLC	13549669	 Borrower Payment Dependent Notes Series 13549669	
+Prosper Funding LLC	13549723	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13550287	 Borrower Payment Dependent Notes Series 13550287	
+Prosper Funding LLC	13551178	 Borrower Payment Dependent Notes Series 13551178	
+Prosper Funding LLC	13551289	 Borrower Payment Dependent Notes Series 13551289	
+Prosper Funding LLC	13551340	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13551529	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13551586	 Borrower Payment Dependent Notes Series 13551586	
+Prosper Funding LLC	13551697	 Borrower Payment Dependent Notes Series 13551697	
+Prosper Funding LLC	13551769	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13551970	 Borrower Payment Dependent Notes Series 13551970	
+Prosper Funding LLC	13552081	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13552381	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13552444	 Borrower Payment Dependent Notes Series 13552444	
+Prosper Funding LLC	13552477	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13552630	 Borrower Payment Dependent Notes Series 13552630	
+Prosper Funding LLC	13552741	 Borrower Payment Dependent Notes Series 13552741	
+Prosper Funding LLC	13552744	 Borrower Payment Dependent Notes Series 13552744	
+Prosper Funding LLC	13552843	 Borrower Payment Dependent Notes Series 13552843	
+Prosper Funding LLC	13552924	 Borrower Payment Dependent Notes Series 13552924	
+Prosper Funding LLC	13553062	 Borrower Payment Dependent Notes Series 13553062	
+Prosper Funding LLC	13553077	 Borrower Payment Dependent Notes Series 13553077	
+Prosper Funding LLC	13553314	 Borrower Payment Dependent Notes Series 13553314	
+Prosper Funding LLC	13553326	 Borrower Payment Dependent Notes Series 13553326	
+Prosper Funding LLC	13553341	 Borrower Payment Dependent Notes Series 13553341	
+Prosper Funding LLC	13553395	 Borrower Payment Dependent Notes Series 13553395	
+Prosper Funding LLC	13553398	 Borrower Payment Dependent Notes Series 13553398	
+Prosper Funding LLC	13553473	 Borrower Payment Dependent Notes Series 13553473	
+Prosper Funding LLC	13553527	 Borrower Payment Dependent Notes Series 13553527	
+Prosper Funding LLC	13553599	 Borrower Payment Dependent Notes Series 13553599	
+Prosper Funding LLC	13554583	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13555441	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13555504	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13555528	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13555741	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556032	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13556059	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556158	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556209	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556215	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556302	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556422	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556443	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556449	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556500	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13556548	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13556821	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556824	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556896	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13556902	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13556938	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13557103	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13557232	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13557781	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13557919	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13558039	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13558045	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13558516	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13558786	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13558876	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559212	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559401	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559572	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559698	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559701	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559884	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559893	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559917	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559983	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13559989	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13560001	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13560370	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13560739	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13561051	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13561168	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13561234	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13561417	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13561873	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13562446	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13562650	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13562845	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13563061	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13563139	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13563154	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13563355	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13564330	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13564633	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13564723	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13564879	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13565887	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13565947	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13566058	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13566064	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13566109	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13566172	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13566178	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13566226	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13566325	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13566682	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13566880	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13567252	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13567540	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13567888	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13567915	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13567972	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569154	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569271	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569340	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569379	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569402	 Borrower Payment Dependent Notes Series 13569402	
+Prosper Funding LLC	13569408	 Borrower Payment Dependent Notes Series 13569408	
+Prosper Funding LLC	13569463	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569478	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569589	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569652	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569667	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569712	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569733	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569774	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569802	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569814	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569823	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569904	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13569990	 Borrower Payment Dependent Notes Series 13569990	
+Prosper Funding LLC	13570003	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570126	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570132	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570345	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570390	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570411	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570414	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570453	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570474	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570486	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570492	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570630	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570662	 Borrower Payment Dependent Notes Series 13570662	
+Prosper Funding LLC	13570684	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570690	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13570945	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571301	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571488	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571533	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571557	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571572	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571589	 Borrower Payment Dependent Notes Series 13571589	
+Prosper Funding LLC	13571596	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571629	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571668	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571700	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571701	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571706	 Borrower Payment Dependent Notes Series 13571706	
+Prosper Funding LLC	13571742	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571773	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571779	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571794	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571968	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13571979	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13572009	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13572045	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13572081	 Borrower Payment Dependent Notes Series 13572081	
+Prosper Funding LLC	13572166	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13572300	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13572321	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13572390	 Borrower Payment Dependent Notes Series 13572390	
+Prosper Funding LLC	13572417	 Borrower Payment Dependent Notes Series 13572417	
+Prosper Funding LLC	13572486	 Borrower Payment Dependent Notes Series 13572486	
+Prosper Funding LLC	13572504	 Borrower Payment Dependent Notes Series 13572504	
+Prosper Funding LLC	13572645	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13572795	 Borrower Payment Dependent Notes Series 13572795	
+Prosper Funding LLC	13572813	 Borrower Payment Dependent Notes Series 13572813	
+Prosper Funding LLC	13572843	 Borrower Payment Dependent Notes Series 13572843	
+Prosper Funding LLC	13572888	 Borrower Payment Dependent Notes Series 13572888	
+Prosper Funding LLC	13572918	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13572936	 Borrower Payment Dependent Notes Series 13572936	
+Prosper Funding LLC	13572963	 Borrower Payment Dependent Notes Series 13572963	
+Prosper Funding LLC	13572966	 Borrower Payment Dependent Notes Series 13572966	
+Prosper Funding LLC	13572969	 Borrower Payment Dependent Notes Series 13572969	
+Prosper Funding LLC	13572987	 Borrower Payment Dependent Notes Series 13572987	
+Prosper Funding LLC	13573035	 Borrower Payment Dependent Notes Series 13573035	
+Prosper Funding LLC	13573086	 Borrower Payment Dependent Notes Series 13573086	
+Prosper Funding LLC	13573098	 Borrower Payment Dependent Notes Series 13573098	
+Prosper Funding LLC	13573146	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13573167	 Borrower Payment Dependent Notes Series 13573167	
+Prosper Funding LLC	13573203	 Borrower Payment Dependent Notes Series 13573203	
+Prosper Funding LLC	13573233	 Borrower Payment Dependent Notes Series 13573233	
+Prosper Funding LLC	13573266	 Borrower Payment Dependent Notes Series 13573266	
+Prosper Funding LLC	13573308	 Borrower Payment Dependent Notes Series 13573308	
+Prosper Funding LLC	13573455	 Borrower Payment Dependent Notes Series 13573455	
+Prosper Funding LLC	13573557	 Borrower Payment Dependent Notes Series 13573557	
+Prosper Funding LLC	13573713	 Borrower Payment Dependent Notes Series 13573713	
+Prosper Funding LLC	13573764	 Borrower Payment Dependent Notes Series 13573764	
+Prosper Funding LLC	13573797	 Borrower Payment Dependent Notes Series 13573797	
+Prosper Funding LLC	13573836	 Borrower Payment Dependent Notes Series 13573836	
+Prosper Funding LLC	13574139	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13574166	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13574289	 Borrower Payment Dependent Notes Series 13574289	
+Prosper Funding LLC	13574415	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13574592	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13574766	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13575063	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13575102	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13575177	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13575204	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13575273	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13575570	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13575690	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13575792	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13575846	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13575876	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13575996	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13576029	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13576503	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13576584	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13576749	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13576773	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13576794	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13576833	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13577526	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13577547	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13577625	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13577634	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13577748	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13578321	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13578384	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13578420	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13578744	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579083	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579116	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579137	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579269	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579317	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579458	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579623	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579773	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579854	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13579902	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13580055	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13580160	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13580199	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13580211	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13580877	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13581078	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13582545	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13582722	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13582824	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13583196	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13583256	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13585107	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13585224	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13585635	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13585698	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13585803	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13585944	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13585965	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13586010	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13586034	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13586043	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	13586832	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13587000	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13587123	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13587174	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13587972	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13588338	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13588743	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13588989	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13588995	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13589262	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13589361	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13589406	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13589532	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13589538	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13589646	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13589760	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13590075	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13590141	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13590189	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13590216	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13590240	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13590342	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13590354	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591281	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591452	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591455	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591458	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591461	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591464	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591530	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591566	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591590	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591596	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591692	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591731	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591749	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	13591905	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13556620	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13556455	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13556410	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13556103	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13375322	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13375304	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13375274	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13375226	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13375163	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13375151	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13374953	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13374737	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13374713	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13374590	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13374545	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13374347	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13374074	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13373903	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13373873	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13373795	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13373360	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13372976	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13372802	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13372451	
+Prosper Funding LLC	333257739	 Registration Statement Nos 333257739	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Registration Statement	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13564480	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13564426	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13563097	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13557922	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13382204	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13382066	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13382033	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13381991	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13381958	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13381793	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13380827	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13380524	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13378031	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13377761	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13376015	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13375517	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13375487	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13375397	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13564480	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13564696	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Registration Statement	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13556143	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Registration Statement Nos 333257739 33325773901	
+Prosper Funding LLC	333257739	 CUSIP Listing	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Prosper Marketplace Inc PMI Management Rights Listing Report	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent NotesProsper Marketplace IncPMI Management Rights	
+Prosper Funding LLC	333257739	 Preliminary Pricing Supplement	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13552579	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13552396	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13552348	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13552327	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13552261	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13551946	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13551742	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13550929	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13550662	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13550299	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13550257	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13549819	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13549789	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13370645	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13370423	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13370066	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13369697	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13369670	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13369664	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13369076	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13367945	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13367231	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13366535	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13365713	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13352933	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572942	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572894	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572840	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572804	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572711	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572678	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572588	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572258	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572240	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13572207	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13571754	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13571748	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13571427	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13569255	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13569072	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13553479	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13553464	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13553107	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13553002	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13552951	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13552939	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13552786	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes Series 13552678	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	333257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	33325773901	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	33325773901	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	33325773901	 Registration Statement	
+Prosper Funding LLC	33325773901	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	33325773901	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	33325773901	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	33325773901	 Borrower Payment Dependent Notes Series 13555435	
+Prosper Funding LLC	33325773901	 PMI Management Rights Listing	
+Prosper Funding LLC	33325773901	 Registration Statement	
+Prosper Funding LLC	33325773901	 CUSIP Listing	
+Prosper Funding LLC	 - Not mentioned -	 Prosper Series	
+Prosper Funding LLC	 - Not mentioned -	 Loan Listing Auto Invest Represents	
+Prosper Funding LLC	 333-257739	 Prospectus registration statement	
+Prosper Funding LLC	 333-257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	 333-257739	 Borrower Payment Dependent Notes	
+Prosper Funding LLC	 333-257739	 Borrower Payment Dependent Notes Series 13369124	
+Prosper Funding LLC	 333-257739-01	 Prospectus registration statement	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13593636	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13593585	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13593582	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13593498	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13593351	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13573111	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13592685	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13592427	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13587462	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13573774	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13573756	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13572961	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13572901	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13572850	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13567780	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13391369	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13391273	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13391240	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13391225	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13391216	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13391180	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13391165	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13391147	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13390442	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13390217	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13593801	
+Prosper Funding LLC	 333-257739-01	 Borrower Payment Dependent Notes - Series 13593660	
+Prosper Funding LLC	 333-257739-01	 Prospectus dated Jul 01 2024	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: F	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: F	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: E	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: F	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: F	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: E	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: E	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: E	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: B	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: C	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: C	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: C	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: F	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: F	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: B	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: C	
+Prosper Funding LLC	 333-257739-01	 Prosper Rating: B	
+Prosper Funding LLC	 74346BTY6	 Borrower Payment Dependent Notes	
+Prosper Funding LLC - Prosper Marketplace Inc	333257739	 Prosper Funding LLC Borrower Payment Dependent Notes	
+Prosper Funding LLC - Prosper Marketplace Inc	 333257739-01	 Prosper Funding LLC Borrower Payment Dependent Notes	
+Prosper Marketplace Inc	13385288	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13385339	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13385441	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13385549	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13385828	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13568032	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13568071	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13568077	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13568119	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13568191	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13568272	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13568287	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13587762	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13587927	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	13588143	 Borrower Payment Dependent Notes Series	
+Prosper Marketplace Inc	333257739	 Registration Statement	
+Prosper Marketplace Inc	333257739	 Registration Statement	
+Prosper Marketplace Inc	333257739	 Prosper Funding LLC Borrower Payment Dependent Notes	
+Prosper Marketplace Inc	33325773901	 Borrower Payment Dependent Notes	
+Prosper Marketplace Inc	33325773901	 PMI Management Rights	
+Prosper Marketplace Inc	33325773901	 PMI Management Rights	
+Prosper Marketplace Inc	33325773901	 PMI Management Rights	
+Prosper Marketplace Inc	 333257739-01	 Preliminary Pricing Supplement	
+Prosper Marketplace Inc	 333257739-01	 PMI Management Rights Listing	
+Prosper Marketplace Inc	 333257739-01	 PMI Management Rights	
+Prosper Marketplace Inc	 333-257739-01	 Prospectus dated Jul 01 2024	
+Prosper Marketplace Inc.	13381412	 Debt Consolidation	
+Prosper Marketplace Inc.	13383671	 Debt Consolidation	
+Prosper Marketplace Inc.	13384085	 Debt Consolidation	
+Prosper Marketplace Inc.	13389860	 Debt Consolidation	
+Prosper Marketplace Inc.	13389881	 Debt Consolidation	
+Prosper Marketplace Inc.	13389905	 Debt Consolidation	
+Prosper Marketplace Inc.	13390085	 Debt Consolidation	
+Prosper Marketplace Inc.	13390091	 Debt Consolidation	
+Prosper Marketplace Inc.	13390202	 Debt Consolidation	
+Prosper Marketplace Inc.	13390214	 Debt Consolidation	
+Prosper Marketplace Inc.	13390373	 Debt Consolidation	
+Prosper Marketplace Inc.	13390589	 Debt Consolidation	
+Prosper Marketplace Inc.	13566334	 Debt Consolidation	
+Prosper Marketplace Inc.	13566340	 Debt Consolidation	
+Prosper Marketplace Inc.	13566361	 Debt Consolidation	
+Prosper Marketplace Inc.	13566370	 Debt Consolidation	
+Prosper Marketplace Inc.	13572454	 Debt Consolidation	
+Prosper Marketplace Inc.	13572538	 Debt Consolidation	
+Prosper Marketplace Inc.	13572561	 Debt Consolidation	
+Prosper Marketplace Inc.	13572736	 Debt Consolidation	
+Prosper Marketplace Inc.	13572892	 Debt Consolidation	
+Prosper Marketplace Inc.	13572946	 Debt Consolidation	
+Prosper Marketplace Inc.	13573123	 Debt Consolidation	
+Prosper Marketplace Inc.	13573189	 Debt Consolidation	
+Prosper Marketplace Inc.	13583571	 PMI Management Rights	
+Prosper Marketplace Inc.	13586049	 Debt Consolidation	
+Prosper Marketplace Inc.	13586064	 Debt Consolidation	
+Prosper Marketplace Inc.	13586415	 Debt Consolidation	
+Prosper Marketplace Inc.	13586697	 Debt Consolidation	
+Prosper Marketplace Inc.	13587102	 Debt Consolidation	
+Prosper Marketplace Inc.	13592214	 Debt Consolidation	
+Prosper Marketplace Inc.	13592385	 Debt Consolidation	
+Prosper Marketplace Inc.	13592442	 Debt Consolidation	
+Prosper Marketplace Inc.	13592538	 Debt Consolidation	
+Prosper Marketplace Inc.	13592661	 Debt Consolidation	
+Prosper Marketplace Inc.	13592706	 Debt Consolidation	
+Prosper Marketplace Inc.	13592886	 Debt Consolidation	
+Prosper Marketplace Inc.	13592943	 Debt Consolidation	
+Prosper Marketplace Inc.	13593021	 Debt Consolidation	
+Prosper Marketplace Inc.	333257739	 Borrower Payment Dependent Notes	
+Prosper Marketplace Inc.	33325773901	 PMI Management Rights Listing	
+Prosper Marketplace Inc.	 333257739-01	 PMI Management Rights	
+Prosper Marketplace Inc.	 333257739-01	 PMI Management Rights	
+Prosper Marketplace Inc.	 333-257739-01	 PMI Management Rights	
+Prosper Rating	13368935	 Borrower Payment Dependent Notes	
+Prosper Rating	13375205	 Borrower Payment Dependent Notes	
+Prosper Rating	13375397	 Borrower Payment Dependent Notes	
+Prosper Rating	13375487	 Borrower Payment Dependent Notes	
+Prosper Rating	13375517	 Borrower Payment Dependent Notes	
+Prosper Rating	13376015	 Borrower Payment Dependent Notes	
+Prosper Rating	13377761	 Borrower Payment Dependent Notes	
+Prosper Rating	13378031	 Borrower Payment Dependent Notes	
+Prosper Rating	13380524	 Borrower Payment Dependent Notes	
+Prosper Rating	13380827	 Borrower Payment Dependent Notes	
+Prosper Rating	13381793	 Borrower Payment Dependent Notes	
+Prosper Rating	13381958	 Borrower Payment Dependent Notes	
+Prosper Rating	13381991	 Borrower Payment Dependent Notes	
+Prosper Rating	13382033	 Borrower Payment Dependent Notes	
+Prosper Rating	13382066	 Borrower Payment Dependent Notes	
+Prosper Rating	13382204	 Borrower Payment Dependent Notes	
+Prosper Rating	13557922	 Borrower Payment Dependent Notes	
+Prosper Rating	13558009	 Borrower Payment Dependent Notes	
+Prosper Rating	13558033	 Borrower Payment Dependent Notes	
+Prosper Rating	13558408	 Borrower Payment Dependent Notes	
+Prosper Rating	13558450	 Borrower Payment Dependent Notes	
+Prosper Rating	13563097	 Borrower Payment Dependent Notes	
+Prosper Rating	13564426	 Borrower Payment Dependent Notes	
+Prosper Rating	13564480	 Borrower Payment Dependent Notes	
+Prosper Rating	13564696	 Borrower Payment Dependent Notes	
+Prosper Rating	13577838	 Borrower Payment Dependent Notes	
+Prosper Rating	13577898	 Borrower Payment Dependent Notes	
+Prosper Rating	13578288	 Borrower Payment Dependent Notes	
+Prosper Rating	13578351	 Borrower Payment Dependent Notes	
+Prosper Rating	13578369	 Borrower Payment Dependent Notes	
+Prosper Rating	13579122	 Borrower Payment Dependent Notes	
+Prosper Rating	13579671	 Borrower Payment Dependent Notes	
+Prosper Rating	13579806	 Borrower Payment Dependent Notes	
+Prosper Rating	13580487	 Borrower Payment Dependent Notes	
+Prosper Rating	13582080	 Borrower Payment Dependent Notes	
+Prosper Rating	13582821	 Borrower Payment Dependent Notes	
+Prosper Rating	13582983	 Borrower Payment Dependent Notes	
+Prosper Rating	13583598	 Borrower Payment Dependent Notes	
+Prosper Rating	13583649	 Borrower Payment Dependent Notes	
+Prosper Rating	13584411	 Borrower Payment Dependent Notes	
+Prosper Rating	13584444	 Borrower Payment Dependent Notes	
+Prosper Rating	13584456	 Borrower Payment Dependent Notes	
+Prosper Rating	13584468	 Borrower Payment Dependent Notes	
+Prosper Rating	13584510	 Borrower Payment Dependent Notes	
+Prosper Rating	13584558	 Borrower Payment Dependent Notes	
+Prosper Rating	13584615	 Borrower Payment Dependent Notes	
+Prosper Rating	13584624	 Borrower Payment Dependent Notes	
+Prosper Rating	13584633	 Borrower Payment Dependent Notes	
+Prosper Rating	13584660	 Borrower Payment Dependent Notes	
+Prosper Rating	13584690	 Borrower Payment Dependent Notes	
+Prosper Rating	13584699	 Borrower Payment Dependent Notes	
+Prosper Rating	13584717	 Borrower Payment Dependent Notes	
+PUBLIC SERVICE ELECTRIC GAS COMPANY PSEG	333275512	 Secured Medium-Term Notes Series Q due August 1 2054	
+Purple Biotech Ltd	333280947	 PMI Management Rights Listing	
+QT IMAGING HOLDINGS INC	43795000	 Common Stock	
+QT IMAGING HOLDINGS INC	861728920	 IRS Employer Identification Number	
+reAlpha Tech Corp	863425507	 Common Stock par value 0001 per share	
+RiverSource Life Insurance Company	 910312A01	 Structured Solutions Annuity	
+RiverSource Structured Solutions 2	 PRO911912B01	 Structured Solutions 2SM Annuity	
+Royal Bank of Canada	 78015QKF7	 Pricing Supplement Amendment	
+Royal Bank of Canada	 78015QKG5	 Return Notes Variable Coupons Linked Basket Closed-End Funds Due June 25 2026	
+Russell 2000 Index	 90307D2D3	 Trigger Callable Contingent Yield Notes	
+Russell 2000® Index	 90307D5K4	 UBS AG Trigger Callable Contingent Yield Notes	
+Ryder System Inc	 78355H LC 1	 Medium-Term Notes Registered NotesFixed Rate Due Nine Months From Date Of Issue	
+Ryder System Inc	 78355H LC 1	 Medium Term Notes Fixed Rate due Nine Months from Date of Issue	
+Ryder System Inc	 78355H LC 1	 Medium-Term Notes Fixed Rate Due Nine Months	
+S&P 500 Index	 90307D2D3	 Trigger Callable Contingent Yield Notes	
+Scilex Holding Company	13474683	 Common Stock	
+SCS Income	863835	 New Biz Cat	
+Serve Robotics Inc	18960989	 Prospectus Supplement No. 2 to Prospectus dated July 5 2024	
+Serve Robotics Inc	853844872	 Prospectus Supplement No. 2 to Prospectus dated July 5 2024	
+Signing Day Sports Inc	6643788	 Common Stock	
+SimpliSafe Holding Corporation	 90138CAC0	 MQUSSVA Auto Callable Contingent Interest Notes	
+Smith Micro Software Inc	2043700	 Registered resale by Selling Stockholders of Common Stock	
+SMX Security Matters PLC	 G8227S108	 Ordinary Shares	
+SMX Security Matters Public Limited Company	 31788V105	 Ordinary Shares	
+SMX Security Matters Public Limited Company	 31788V113	 SMX Public Warrant	
+Soligenix Inc	 83407P319	 Common Stock - Nasdaq Capital Market	
+Soligenix Inc	 83407P319	 Common Stock - Nasdaq Capital Market	
+SP 500® Index	 90307DXJ6	 Buffer Autocallable Notes	
+SpringBig Holdings Inc	333280335	 Medium-Term Notes Registered NotesFixed Rate Due Nine Months From Date Of Issue	
+Spyre Therapeutics Inc.	464312787	 Common Stock	
+Stardust Power Inc	55190875	 Common Stock	
+Stardust Power Inc	55190875	 Common Stock Underlying Warrants	
+State of Israel	 12343788s	 Jubilee Fixed Rate Bonds Twelfth Series	
+Stone Ridge Reinsurance Risk Premium Interval Fund	 86164B102	 Stone Ridge Reinsurance Risk Premium Interval Fund	
+Tantech Holdings Ltd	61313874	 Common Shares	
+Targaryen Investments	111666777	 Equity Injection Structure	
+Tenon Medical Inc	424807	 Prospectus for resale of shares by Lincoln Park Capital Fund LLC	
+Tenon Medical Inc	333274451	 Common Stock Underlying Warrants	
+TerraVentures	111444555	 Loan Adjustment Index	
+Tesla Inc	 90307DYC0	 UBS AG Trigger Autocallable Contingent Yield Notes Memory Interest	
+Tesla Inc	 US90307DYC00	 ISIN for UBS AG Trigger Autocallable Contingent Yield Notes Memory Interest	
+Tesla Inc.	 90307DYB2	 Common stock	
+Tesla Inc.	 US90307DYB27	 Common stock	
+Tetragon Trust	111555666	 Dividend Adjustment Document	
+Tevogen Bio Holdings Inc.	24551308	 Common Stock	
+Tevogen Bio Holdings Inc.	42474978	 Common Stock	
+Titan Corp	111777888	 General Stock Agreement	
+Toronto Dominion Bank	 89115GBJ7	 Autocallable Contingent Buffered Notes Linked to the Russell 2000® Index Due June 25 2026	
+TorontoDominion Bank	 89115GEN5	 Callable Contingent Interest Barrier Notes Linked to Least Performing Nasdaq100 Index® Russell 2000® Index and S&P 500® Index Due February 4 2027	
+Toronto-Dominion Bank	 89114XFK4	 Callable Fixed Rate Notes Due July 31 2029	
+Toronto-Dominion Bank	 89114XFL2	 Senior Debt Securities Series E	
+Toronto-Dominion Bank	 89115GBJ7	 1100000 Autocallable Contingent Buffered Notes Linked to the Russell 2000® Index Due June 25 2026	
+Toronto-Dominion Bank	 89115GCH0	 Callable Contingent Interest Barrier Notes Linked S&P 500® Index Due July 13 2029	
+Toronto-Dominion Bank	 89115GE47	 Senior Debt Securities Series E	
+Toronto-Dominion Bank	 89115GES4	 Borrower Payment Dependent Notes Series	
+Toronto-Dominion Bank	 89116D311	 Capped Notes Absolute Return Buffer Linked to S&P 500® Index due August 29 2025	
+TPT Global Tech Inc.	 333-280545	 Registration No.	
+TriSalus Life Sciences Inc	139813	 Common Stock	
+TriSalus Life Sciences Inc	853009869	 Pricing Supplement Amendment	
+TriSalus Life Sciences Inc	853009869	 Warrants	
+Truist Financial Corporation	 89788MAT9	 FixedtoFloating Rate Senior Notes due August 2032	
+Trump Media & Technology Group (TMTG)	1849635	 Multiple Securities including Convertible Promissory Notes	
+Trump Media & Technology Group Corp	37969380	 Shares of Common Stock	
+Trump Media & Technology Group Corp	 60900N100	 Medium-Term Notes Series F / Warrants Series G	
+Trump Media & Technology Group Corp - Public Warrants	 60900N116	 Medium-Term Notes Series F / Warrants Series G	
+Trump Media Technology Group Corp	854293042	 United States Securities and Exchange Commission	
+Twigg & Co	111222333	 Bond Filing	
+Twin Enterprises	111333444	 Maturity and Adjustment Notification	
+TXNM Energy Inc	 69349H107	 Common Stock	
+UBS AG	 90307D2B7	 Trigger Autocallable Contingent Yield Notes	
+UBS AG	 90307D4V1	 Notes linked to the Nasdaq IFED 5 Target Volatility IndexTM	
+UBS AG	 90307D4V1	 UBS AG • IndexLinked Notes Linked to Nasdaq IFED 5 Target Volatility IndexTM	
+UBS AG	 90307D5Q1	 433000 Bearish Barrier Early Redeemable Market Linked Notes	
+UBS AG	 90307D5R9	 Market Linked Notes Daily Barrier Observation Digital Return Linked to S&P 500® Index	
+UBS AG	 90307DMX7	 Index Linked Notes Linked to Nasdaq IFED 10 Target Volatility Index due August 3 2029	
+UBS AG	 90307DZQ8	 Buffer Callable Contingent Yield Notes	
+UBS AG London Branch	 90307D2V3	 Contingent Income AutoCallable Securities due July 16 2026	
+Unilever Capital Corporation	 62968937S	 Preliminary Prospectus Supplement	
+Unilever Capital Corporation	 62968937s	 Senior Notes due 20•	
+Unilever Capital Corporation	 62968937s	 Unilever Capital Corporation Senior Notes	
+United States Natural Gas Fund LP	 90307DG48	 Shares of the United States Natural Gas Fund LP linked to the United States Natural Gas Fund LP issued by UBS AG under the Trigger Contingent Yield Notes Memory Interest	
+United States Natural Gas Fund LP	 90307DXS6	 UBS AG Trigger Contingent Yield Notes	
+Unknown	 34540TJ37	 Senior Unsecured Notes	
+Unknown	 34540TJ45	 Senior Unsecured Notes	
+Unnamed	 48135NY42	 MerQube US Large Cap Vol Advantage Index Note	
+Utilities Select Sector SPDR Fund	 90307DR38	 Buffer Callable Contingent Yield Notes	
+Utilities Select Sector SPDR® Fund	 90307D5K4	 UBS AG Trigger Callable Contingent Yield Notes	
+VanEck® Gold Miners ETF	 90307D5G3	 Title Exchange Notes	
+VanEck® Gold Miners ETF	 90307D5G3	 Shares VanEck® Gold Miners ETF	
+Vanguard Group	921937101	 Capped Notes Absolute Return Buffer Linked to S&P 500® Index due August 29 2025	
+VectoIQ Holdings LLC	333239940	 PMI Management Rights	
+VinFast Auto Ltd	64041969	 Ordinary Shares	
+VinFast Auto Ltd	64041969	 Ordinary Shares	
+VinFast Auto Ltd	 201501874G	 Ordinary Shares	
+VinFast Auto Ltd.	95273331	 Ordinary Shares and Warrants	
+Vintage Wine Estates Inc	871005902	 CUSIP No	
+Vintage Wine Estates Inc	871005902	 Common Stock	
+Vintage Wine Estates Inc	871005902	 Current Report	
+Vintage Wine Estates Inc	871005902	 Current Report	
+Vintage Wine Estates Inc.	871005902	 Common Stock	
+Vireo Growth Inc	 92767B105	 Subordinate Voting Shares	
+Western Asset High Income Fund II Inc	333261721	 Supplement Dated August 1 2024 Prospectus Dated March 23 2022	
+Western Asset Mortgage Opportunity Fund Inc	 333-253996	 Prospectus Dated May 4 2021	
+Wheeler Real Estate Investment Trust Inc	135713	 Common Stock	
+Wheeler Real Estate Investment Trust Inc	 WHLRD	 Series D Cumulative Convertible Preferred Stock	
+Wheeler Real Estate Investment Trust Inc	 WHLRL	 7.00% Subordinated Convertible Notes due 2031	
+Wheeler Real Estate Investment Trust Inc	 WHLRP	 Series B Convertible Preferred Stock	
+Wheeler Real Estate Investment Trust Inc.	135713	 Common Stock	
+Wheeler Real Estate Investment Trust Inc.	20704217	 Common Stock	
+Wheeler Real Estate Investment Trust Inc.	 92837F304	 CUSIP number resulting from Reverse Stock Split	
+Wheeler Real Estate Investment Trust Inc.	 96208T303	 CUSIP number resulting from Reverse Stock Split	
+White River Energy Corp	67651420	 Shares Common Stock	
+XORTX Therapeutics Inc	 333-258741	 Prospectus dated August 7 2023	
+XOS INC	139598	 Common Stock	
+XOS INC	 XOSWW	 Warrants	
+XYZ Inc	987654321	 Product Supplement No. 4	
+YieldStreet Alternative Income Fund Inc	1762229	 Common Stock	
+Yorkville Advisors Global LP	727056	 Capped Notes Absolute Return Buffer Linked to S&P 500® Index due August 29 2025	
+Zapp Electric Vehicles Group Limited	561028105	 Capped Notes Absolute Return Buffer Linked to S&P 500® Index due August 29 2025	
+Zuffa	923569035	 Common Stock	
