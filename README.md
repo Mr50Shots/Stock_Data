@@ -1,5 +1,3 @@
-# Final Update 6-29-2023 - Project is going internal. 
-
 # Random Stock Market Data
 
 ### SP500StockList.csv - List of all companies in the S&P 500 - (May 2022)
