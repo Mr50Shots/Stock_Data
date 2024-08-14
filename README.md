@@ -8,6 +8,6 @@
 ### CIK_with_Tickers (Nov 2022)
 ### CIK_CUSIP (Nov 2022) Some companies may have multiple CUSIP
 ### SHORT_LIST (Nov 30 2022) List Short Percentage list of stocks
-### EOD RSI (May 1st 2023) EOD RSI dump per ticker
+### End of the Day Data (August 2024) 
 
 
