@@ -8,6 +8,10 @@
 ### CIK_with_Tickers (Nov 2022)
 ### CIK_CUSIP (Nov 2022) Some companies may have multiple CUSIP
 ### SHORT_LIST (Nov 30 2022) List Short Percentage list of stocks
-### End of the Day Data (August 2024) 
+### End of the Day Data (Jan 2025) 
+
+
+https://thax.io
+
 
 
